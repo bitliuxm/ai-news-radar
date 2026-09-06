@@ -5,29 +5,37 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 06 Sep 2026 09:26:50 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 17:01:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI</title>
+<link>https://openai.com/index/research-acceleration-view-inside-openai</link>
+<guid isPermaLink="true">https://openai.com/index/research-acceleration-view-inside-openai</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>An Alien Mind</title>
+<link>https://openai.com/index/an-alien-mind</link>
+<guid isPermaLink="true">https://openai.com/index/an-alien-mind</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Sun, 06 Sep 2026 09:00:00 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure</title>
 <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure</guid>
-<description>事故披露框架是公关动作，不影响接口和工具，等细则落地再关注。（TechCrunch：AI（RSS））</description>
+<description>OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 05 Sep 2026 18:05:27 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki 'incident'</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident</guid>
-<description>公司内部流程整改，与开发者无直接关系，不用动手。（The Verge：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 11:15:55 +0000</pubDate>
 </item>
 <item>
 <title>Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化</title>
 <link>https://www.ithome.com/0/998/927.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/0/998/927.htm</guid>
-<description>基准水分大，选型别只看数字，跑真实业务验证才靠谱。（IT之家（RSS））</description>
+<description>据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sun, 06 Sep 2026 06:46:16 +0000</pubDate>
 </item>
@@ -35,7 +43,7 @@
 <title>OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架 / OpenAI has acknowledged the "wiki incident" and says its rules for disclosing agent failures need to…</title>
 <link>https://x.com/rohanpaul_ai/status/2096303922378088854</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2096303922378088854</guid>
-<description>披露框架还在嘴上，对开发者暂无实操影响，等细则。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<description>OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Sat, 05 Sep 2026 18:26:17 +0000</pubDate>
 </item>
@@ -43,47 +51,47 @@
 <title>OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分 / GPT-6 Astra from OpenAI claimed a top spot on WebDev Arena， surpassing recently released Claude Fabl…</title>
 <link>https://x.com/testingcatalog/status/2096350628054176240</link>
 <guid isPermaLink="true">https://x.com/testingcatalog/status/2096350628054176240</guid>
-<description>榜单变化提醒你关注新模型，但没开放就别急着换。（X：Testing Catalog (@testingcatalog)）</description>
+<description>GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。（X：Testing Catalog (@testingcatalog)）</description>
 <category>行业动态</category>
 <pubDate>Sat, 05 Sep 2026 21:31:52 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words</title>
-<link>https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</link>
-<guid isPermaLink="true">https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</guid>
-<description>提示词指南能直接抄，屏蔽词清单可优化输出，跑 prompt 的今天就能试。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 13:31:04 +0000</pubDate>
-</item>
-<item>
-<title>实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685905&amp;idx=1&amp;sn=2a6327daa3fb1d5573a824afd63af7f6</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685905&amp;idx=1&amp;sn=2a6327daa3fb1d5573a824afd63af7f6</guid>
-<description>测评有参考价值，但没给可用入口，先观望等官方发布。（公众号：数字生命卡兹克）</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 11:39:52 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制</title>
-<link>https://www.ithome.com/0/998/814.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/0/998/814.htm</guid>
-<description>流程改革无API变化，等披露机制细则落地再看。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 05 Sep 2026 11:43:16 +0000</pubDate>
+<title>我对人工智能的看法</title>
+<link>https://beza1e1.tuxen.de/ai_feelings.html</link>
+<guid isPermaLink="true">https://beza1e1.tuxen.de/ai_feelings.html</guid>
+<description>beza1e1.tuxen.de</description>
+<category>多源热议</category>
+<pubDate>Sun, 06 Sep 2026 16:12:11 +0000</pubDate>
 </item>
 <item>
 <title>GPT-6 Astra 搭载于机械臂 / GPT-6 Astra on robot arms</title>
 <link>https://news.ycombinator.com/item?id=49582582</link>
 <guid isPermaLink="true">https://news.ycombinator.com/item?id=49582582</guid>
-<description>模型上机械臂离量产还远，等API开放再动手。（hackernews）</description>
+<description>hackernews</description>
 <category>多源热议</category>
 <pubDate>Sun, 06 Sep 2026 06:54:59 +0000</pubDate>
 </item>
 <item>
-<title>大语言模型像病毒传播，或致认知依赖</title>
+<title>人工智能关机——保持人性</title>
+<link>https://keepitfree.ai/announcements/a/i-shuts-down-stay-human</link>
+<guid isPermaLink="true">https://keepitfree.ai/announcements/a/i-shuts-down-stay-human</guid>
+<description>keepitfree.ai</description>
+<category>值得关注</category>
+<pubDate>Sun, 06 Sep 2026 15:26:17 +0000</pubDate>
+</item>
+<item>
+<title>人工智能、工具与转型</title>
+<link>https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</link>
+<guid isPermaLink="true">https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</guid>
+<description>www.ben-evans.com</description>
+<category>值得关注</category>
+<pubDate>Sun, 06 Sep 2026 14:22:15 +0000</pubDate>
+</item>
+<item>
+<title>大语言模型作为认知病毒</title>
 <link>https://arxiv.org/abs/2609.03344</link>
 <guid isPermaLink="true">https://arxiv.org/abs/2609.03344</guid>
-<description>学术观点，提认知风险但没有可操作方案，先观察。（arxiv.org）</description>
+<description>arxiv.org</description>
 <category>值得关注</category>
 <pubDate>Sat, 05 Sep 2026 22:19:59 +0000</pubDate>
 </item>
@@ -91,7 +99,7 @@
 <title>OKF Agent Memory：为AI编程Agent打造的Git原生持久化记忆 / OKF Agent Memory – Git-native persistent memory for AI coding agents</title>
 <link>https://news.ycombinator.com/item?id=49581240</link>
 <guid isPermaLink="true">https://news.ycombinator.com/item?id=49581240</guid>
-<description>Git 原生记忆是个实在思路，但成熟度未知，先等仓库和文档。（hackernews）</description>
+<description>hackernews</description>
 <category>值得关注</category>
 <pubDate>Sun, 06 Sep 2026 00:59:04 +0000</pubDate>
 </item>
@@ -99,7 +107,7 @@
 <title>美国最大两大学区实施AI暂停令 / America's Two Largest School Districts Impose AI Moratoriums</title>
 <link>https://news.ycombinator.com/item?id=49580980</link>
 <guid isPermaLink="true">https://news.ycombinator.com/item?id=49580980</guid>
-<description>学区政策与开发者无关，中期影响教育类产品再关注。（hackernews）</description>
+<description>hackernews</description>
 <category>值得关注</category>
 <pubDate>Sat, 05 Sep 2026 22:26:27 +0000</pubDate>
 </item>
