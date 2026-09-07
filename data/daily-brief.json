@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T20:36:44.950226Z",
+  "generated_at": "2026-09-07T23:32:10.396683Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7426,
+        "recency": 0.7119,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9659,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -294,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7805,
+        "recency": 0.7482,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -327,7 +327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -375,15 +375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -408,7 +408,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -456,15 +456,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -489,7 +489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -537,15 +537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -570,7 +570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -618,15 +618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -651,7 +651,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -699,15 +699,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -732,7 +732,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
+      }
+    },
+    {
+      "story_id": "story_a9beddb6a8eb",
+      "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+      "url": "https://www.aibase.com/news/30880",
+      "primary_url": "https://www.aibase.com/news/30880",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
+          "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+          "title_zh": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+          "title_en": null,
+          "title_original": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30880",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T10:15:43.322284Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
+          "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+          "title_zh": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+          "title_en": null,
+          "title_original": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30880",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T10:15:43.322284Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8256,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-07T10:15:43.322284Z",
+      "latest_at": "2026-09-07T10:15:43.322284Z",
+      "primary_item": {
+        "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
+        "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+        "title_zh": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+        "title_en": null,
+        "title_original": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30880",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -838,15 +919,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5633,
-      "importance": 0.5633,
-      "importance_score": 0.5633,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9586,
+        "recency": 0.919,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -871,88 +952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
-      }
-    },
-    {
-      "story_id": "story_a9beddb6a8eb",
-      "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-      "url": "https://www.aibase.com/news/30880",
-      "primary_url": "https://www.aibase.com/news/30880",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
-          "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-          "title_zh": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-          "title_en": null,
-          "title_original": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T10:15:43.322284Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
-          "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-          "title_zh": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-          "title_en": null,
-          "title_original": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T10:15:43.322284Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8612,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-07T10:15:43.322284Z",
-      "latest_at": "2026-09-07T10:15:43.322284Z",
-      "primary_item": {
-        "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
-        "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-        "title_zh": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-        "title_en": null,
-        "title_original": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30880",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -1029,15 +1029,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9767,
+        "recency": 0.9363,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1062,7 +1062,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -1110,15 +1110,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1143,7 +1143,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -1220,15 +1220,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8659,
+        "recency": 0.8301,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1253,7 +1253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -1330,15 +1330,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5119,
-      "importance": 0.5119,
-      "importance_score": 0.5119,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8117,
+        "recency": 0.7781,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1363,7 +1363,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -1411,15 +1411,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1444,7 +1444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -1521,15 +1521,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5119,
-      "importance": 0.5119,
-      "importance_score": 0.5119,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8117,
+        "recency": 0.7781,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1554,7 +1554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -1602,15 +1602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1635,7 +1635,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -1712,15 +1712,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5119,
-      "importance": 0.5119,
-      "importance_score": 0.5119,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8117,
+        "recency": 0.7781,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1745,7 +1745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     },
     {
@@ -1793,15 +1793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1826,7 +1826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:04:22.932732Z"
+        "scored_at": "2026-09-07T23:59:35.502694Z"
       }
     }
   ]
