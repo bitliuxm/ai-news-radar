@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:15:43.322284Z",
+  "generated_at": "2026-09-07T12:43:14.537745Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8623,
+        "recency": 0.8322,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7951,
+        "recency": 0.7674,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -295,21 +295,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9063,
+        "recency": 0.8747,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T03:26:50Z",
       "latest_at": "2026-09-07T03:26:50Z",
@@ -329,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -377,15 +376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8639,
+        "recency": 0.8338,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,7 +409,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -458,15 +457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -492,7 +491,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -540,15 +539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -574,7 +573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -622,15 +621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,7 +655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -704,15 +703,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -738,7 +737,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -786,15 +785,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -820,7 +819,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -868,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -902,7 +901,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -950,15 +949,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -984,7 +983,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
+      }
+    },
+    {
+      "story_id": "story_89772b9cda52",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://news.ycombinator.com/item?id=49596054",
+      "primary_url": "https://news.ycombinator.com/item?id=49596054",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": null,
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49596054",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T12:43:37.553000Z"
+        },
+        {
+          "id": "9942feece18a40a37cb253f83db06755e1388c43",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": null,
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T09:26:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": null,
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49596054",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T12:43:37.553000Z"
+        },
+        {
+          "id": "9942feece18a40a37cb253f83db06755e1388c43",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": null,
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T09:26:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T09:26:41Z",
+      "latest_at": "2026-09-07T12:43:37.553000Z",
+      "primary_item": {
+        "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "title_zh": null,
+        "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+        "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49596054",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -1090,15 +1199,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5467,
-      "importance": 0.5467,
-      "importance_score": 0.5467,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.866,
+        "recency": 0.8358,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1123,117 +1232,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
-      }
-    },
-    {
-      "story_id": "story_545843532362",
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "url": "https://news.ycombinator.com/item?id=49593842",
-      "primary_url": "https://news.ycombinator.com/item?id=49593842",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "105a989db729c5378cd3770bbf134901f6685eee",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49593842",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:09:51.241000Z"
-        },
-        {
-          "id": "2ab7da731dc02356e67415a50029b7e0b7b2c372",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trailofbits/coop",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T04:18:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "105a989db729c5378cd3770bbf134901f6685eee",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49593842",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:09:51.241000Z"
-        },
-        {
-          "id": "2ab7da731dc02356e67415a50029b7e0b7b2c372",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trailofbits/coop",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T04:18:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9425,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T04:18:28Z",
-      "latest_at": "2026-09-07T06:09:51.241000Z",
-      "primary_item": {
-        "id": "105a989db729c5378cd3770bbf134901f6685eee",
-        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-        "title_zh": null,
-        "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-        "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49593842",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -1339,15 +1338,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7705,
+        "recency": 0.7436,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1372,7 +1371,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -1478,15 +1477,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.762,
+        "recency": 0.7354,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1511,7 +1510,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -1559,15 +1558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1593,117 +1592,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
-      }
-    },
-    {
-      "story_id": "story_b94cfff5e377",
-      "title": "I refused to train the AI that could replace me",
-      "url": "https://news.ycombinator.com/item?id=49593959",
-      "primary_url": "https://news.ycombinator.com/item?id=49593959",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
-          "title": "I refused to train the AI that could replace me",
-          "title_zh": null,
-          "title_en": "I refused to train the AI that could replace me",
-          "title_original": "I refused to train the AI that could replace me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49593959",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:09:51.241000Z"
-        },
-        {
-          "id": "2974ed3e3b3d67ea712369ac54b9fedace51087b",
-          "title": "I refused to train the AI that could replace me",
-          "title_zh": null,
-          "title_en": "I refused to train the AI that could replace me",
-          "title_original": "I refused to train the AI that could replace me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T04:38:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
-          "title": "I refused to train the AI that could replace me",
-          "title_zh": null,
-          "title_en": "I refused to train the AI that could replace me",
-          "title_original": "I refused to train the AI that could replace me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49593959",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:09:51.241000Z"
-        },
-        {
-          "id": "2974ed3e3b3d67ea712369ac54b9fedace51087b",
-          "title": "I refused to train the AI that could replace me",
-          "title_zh": null,
-          "title_en": "I refused to train the AI that could replace me",
-          "title_original": "I refused to train the AI that could replace me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T04:38:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9425,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T04:38:22Z",
-      "latest_at": "2026-09-07T06:09:51.241000Z",
-      "primary_item": {
-        "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
-        "title": "I refused to train the AI that could replace me",
-        "title_zh": null,
-        "title_en": "I refused to train the AI that could replace me",
-        "title_original": "I refused to train the AI that could replace me",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49593959",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -1780,15 +1669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5053,
-      "importance": 0.5053,
-      "importance_score": 0.5053,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7752,
+        "recency": 0.7482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1813,7 +1702,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
+      }
+    },
+    {
+      "story_id": "story_545843532362",
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://news.ycombinator.com/item?id=49593842",
+      "primary_url": "https://news.ycombinator.com/item?id=49593842",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "105a989db729c5378cd3770bbf134901f6685eee",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49593842",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:09:51.241000Z"
+        },
+        {
+          "id": "204f9d79bbbc363ef213e7c196c1585e2cd01dfc",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trailofbits/coop",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T04:18:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "105a989db729c5378cd3770bbf134901f6685eee",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49593842",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:09:51.241000Z"
+        },
+        {
+          "id": "204f9d79bbbc363ef213e7c196c1585e2cd01dfc",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_zh": null,
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trailofbits/coop",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T04:18:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9097,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T04:18:28Z",
+      "latest_at": "2026-09-07T06:09:51.241000Z",
+      "primary_item": {
+        "id": "105a989db729c5378cd3770bbf134901f6685eee",
+        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "title_zh": null,
+        "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49593842",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     },
     {
@@ -1861,15 +1860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1895,7 +1894,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T10:38:51.342375Z"
+        "scored_at": "2026-09-07T13:08:57.030346Z"
       }
     }
   ]
