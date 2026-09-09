@@ -1,403 +1,8 @@
 {
-  "generated_at": "2026-09-09T09:44:06.949620Z",
+  "generated_at": "2026-09-09T11:31:40.678860Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_dc315e1882c1",
-      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "primary_url": "https://openai.com/index/navier-stokes-solution",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "title_en": "On the Navier–Stokes Millennium Prize Problem",
-          "title_original": "On the Navier–Stokes Millennium Prize Problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "bc52c016828eb7a34ebb943def2c26ed1f82d172",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier-Stokes Millennium Prize Problem",
-          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "title_en": "On the Navier-Stokes Millennium Prize Problem",
-          "title_original": "On the Navier-Stokes Millennium Prize Problem",
-          "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "2939a41654030d09fc713c6f56cb393c55aefc77",
-          "title": "关于纳维-斯托克斯千禧奖问题",
-          "title_zh": "关于纳维-斯托克斯千禧奖问题",
-          "title_en": null,
-          "title_original": "关于纳维-斯托克斯千禧奖问题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T17:37:53.153000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "title_en": "On the Navier–Stokes Millennium Prize Problem",
-          "title_original": "On the Navier–Stokes Millennium Prize Problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "bc52c016828eb7a34ebb943def2c26ed1f82d172",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier-Stokes Millennium Prize Problem",
-          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "title_en": "On the Navier-Stokes Millennium Prize Problem",
-          "title_original": "On the Navier-Stokes Millennium Prize Problem",
-          "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "2939a41654030d09fc713c6f56cb393c55aefc77",
-          "title": "关于纳维-斯托克斯千禧奖问题",
-          "title_zh": "关于纳维-斯托克斯千禧奖问题",
-          "title_en": null,
-          "title_original": "关于纳维-斯托克斯千禧奖问题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T17:37:53.153000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7098,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T10:00:00Z",
-      "latest_at": "2026-09-08T17:37:53.153000Z",
-      "primary_item": {
-        "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
-        "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-        "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-        "title_en": "On the Navier–Stokes Millennium Prize Problem",
-        "title_original": "On the Navier–Stokes Millennium Prize Problem",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/navier-stokes-solution",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
-      }
-    },
-    {
-      "story_id": "story_d9a44d1c17f0",
-      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "primary_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "title_original": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "7f1305bda050497be8d04dba7d3dfac57b7f12a9",
-          "title": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "title_zh": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "title_en": null,
-          "title_original": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T21:38:06.785000Z"
-        },
-        {
-          "id": "a4e79064fae14adaa661d13eccf5c2bb6fa99cce",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem",
-          "title_original": "OpenAI fought dirty on career-making math problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T19:47:13Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-          "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "title_original": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "7f1305bda050497be8d04dba7d3dfac57b7f12a9",
-          "title": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "title_zh": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "title_en": null,
-          "title_original": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T21:38:06.785000Z"
-        },
-        {
-          "id": "a4e79064fae14adaa661d13eccf5c2bb6fa99cce",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
-          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "title_en": "OpenAI fought dirty on career-making math problem",
-          "title_original": "OpenAI fought dirty on career-making math problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T19:47:13Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7914,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T17:32:15Z",
-      "latest_at": "2026-09-08T21:38:06.785000Z",
-      "primary_item": {
-        "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-        "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
-        "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-        "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-        "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-        "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
-      }
-    },
-    {
-      "story_id": "story_8876e98eb3be",
-      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-          "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "title_zh": null,
-          "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T02:43:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-          "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "title_zh": null,
-          "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T02:43:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9038,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T02:43:38Z",
-      "latest_at": "2026-09-09T02:43:38Z",
-      "primary_item": {
-        "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-        "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-        "title_zh": null,
-        "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
-        "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
-      }
-    },
     {
       "story_id": "story_6c71d9371c7c",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
@@ -472,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8464,
-      "importance": 0.8464,
-      "importance_score": 0.8464,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7853,
+        "recency": 0.7652,
         "story_heat": 0.25
       },
       "category": "official",
@@ -508,7 +113,260 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
+      }
+    },
+    {
+      "story_id": "story_d9a44d1c17f0",
+      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "primary_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "title_en": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "title_original": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "7f1305bda050497be8d04dba7d3dfac57b7f12a9",
+          "title": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
+          "title_zh": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
+          "title_en": null,
+          "title_original": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T21:38:06.785000Z"
+        },
+        {
+          "id": "f5ab1bcbfd771343bfb5e2e974a84c96f228f8fc",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "title_en": "OpenAI fought dirty on career-making math problem",
+          "title_original": "OpenAI fought dirty on career-making math problem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T19:47:13Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "title_en": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "title_original": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "7f1305bda050497be8d04dba7d3dfac57b7f12a9",
+          "title": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
+          "title_zh": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
+          "title_en": null,
+          "title_original": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T21:38:06.785000Z"
+        },
+        {
+          "id": "f5ab1bcbfd771343bfb5e2e974a84c96f228f8fc",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "title_en": "OpenAI fought dirty on career-making math problem",
+          "title_original": "OpenAI fought dirty on career-making math problem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T19:47:13Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7712,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T17:32:15Z",
+      "latest_at": "2026-09-08T21:38:06.785000Z",
+      "primary_item": {
+        "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
+        "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
+        "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+        "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+        "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+        "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T12:10:59.433489Z"
+      }
+    },
+    {
+      "story_id": "story_8876e98eb3be",
+      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
+          "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_zh": null,
+          "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T02:43:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
+          "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_zh": null,
+          "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T02:43:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8807,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T02:43:38Z",
+      "latest_at": "2026-09-09T02:43:38Z",
+      "primary_item": {
+        "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
+        "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+        "title_zh": null,
+        "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
+        "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -556,15 +414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7562,
+        "recency": 0.7369,
         "story_heat": 0.0
       },
       "category": "official",
@@ -591,7 +449,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
+      }
+    },
+    {
+      "story_id": "story_068c3c65edc6",
+      "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+      "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+      "primary_url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ea5a1f529a9971983029913209e99c4c82b0c3c6",
+          "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+          "title_zh": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问",
+          "title_en": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+          "title_original": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+          "summary": "数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T10:27:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ea5a1f529a9971983029913209e99c4c82b0c3c6",
+          "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+          "title_zh": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问",
+          "title_en": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+          "title_original": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+          "summary": "数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T10:27:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9847,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T10:27:37Z",
+      "latest_at": "2026-09-09T10:27:37Z",
+      "primary_item": {
+        "id": "ea5a1f529a9971983029913209e99c4c82b0c3c6",
+        "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+        "title_zh": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问",
+        "title_en": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+        "title_original": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+        "summary": "数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -639,15 +579,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7521,
+        "recency": 0.7328,
         "story_heat": 0.0
       },
       "category": "official",
@@ -674,7 +614,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
+      }
+    },
+    {
+      "story_id": "story_e9165c96a062",
+      "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+      "url": "https://www.ithome.com/1/000/353.htm",
+      "primary_url": "https://www.ithome.com/1/000/353.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "79e7c8a25c55bd9ca8ac193f1a315addc16fbdd4",
+          "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+          "title_zh": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+          "title_en": null,
+          "title_original": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+          "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/000/353.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T09:34:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "79e7c8a25c55bd9ca8ac193f1a315addc16fbdd4",
+          "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+          "title_zh": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+          "title_en": null,
+          "title_original": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+          "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/000/353.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T09:34:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9723,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T09:34:47Z",
+      "latest_at": "2026-09-09T09:34:47Z",
+      "primary_item": {
+        "id": "79e7c8a25c55bd9ca8ac193f1a315addc16fbdd4",
+        "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+        "title_zh": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+        "title_en": null,
+        "title_original": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+        "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/000/353.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -722,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9942,
+        "recency": 0.9688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -756,7 +778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -804,15 +826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9841,
+        "recency": 0.959,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -838,7 +860,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -886,15 +908,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8426,
+        "recency": 0.8211,
         "story_heat": 0.0
       },
       "category": "official",
@@ -921,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -969,15 +991,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9937,
+        "recency": 0.9683,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1003,194 +1025,82 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
-      "story_id": "story_4eab73573707",
-      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-      "url": "https://www.ithome.com/1/000/188.htm",
-      "primary_url": "https://www.ithome.com/1/000/188.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fa808e6855f412167058a091985bcbf806b32686",
-          "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "title_zh": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "title_en": null,
-          "title_original": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/000/188.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T06:41:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fa808e6855f412167058a091985bcbf806b32686",
-          "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "title_zh": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "title_en": null,
-          "title_original": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/000/188.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T06:41:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9571,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T06:41:51Z",
-      "latest_at": "2026-09-09T06:41:51Z",
-      "primary_item": {
-        "id": "fa808e6855f412167058a091985bcbf806b32686",
-        "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-        "title_zh": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-        "title_en": null,
-        "title_original": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-        "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/000/188.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
-      }
-    },
-    {
-      "story_id": "story_16900b8aedbb",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "story_id": "story_be047988843b",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "primary_url": "https://openai.com/index/the-work-now-within-reach",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e403851c39788b25d33193c78b15146edbe25fd8",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-          "title_en": "Introducing ChatGPT Images 2.5",
-          "title_original": "Introducing ChatGPT Images 2.5",
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "title_zh": null,
+          "title_en": "The Work Now Within Reach",
+          "title_original": "The Work Now Within Reach",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "url": "https://openai.com/index/the-work-now-within-reach",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T11:30:00Z"
-        },
-        {
-          "id": "b38d0cf2066e85b3b2bd11f3b092d07b23275955",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
-          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-          "title_en": "ChatGPT Images 2.5",
-          "title_original": "ChatGPT Images 2.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T19:14:22.077000Z"
+          "published_at": "2026-09-08T13:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "e403851c39788b25d33193c78b15146edbe25fd8",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-          "title_en": "Introducing ChatGPT Images 2.5",
-          "title_original": "Introducing ChatGPT Images 2.5",
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "title_zh": null,
+          "title_en": "The Work Now Within Reach",
+          "title_original": "The Work Now Within Reach",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "url": "https://openai.com/index/the-work-now-within-reach",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T11:30:00Z"
-        },
-        {
-          "id": "b38d0cf2066e85b3b2bd11f3b092d07b23275955",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
-          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-          "title_en": "ChatGPT Images 2.5",
-          "title_original": "ChatGPT Images 2.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T19:14:22.077000Z"
+          "published_at": "2026-09-08T13:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7254,
-        "story_heat": 0.25
+        "ai_relevance": 0.91,
+        "recency": 0.7223,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T11:30:00Z",
-      "latest_at": "2026-09-08T19:14:22.077000Z",
+      "earliest_at": "2026-09-08T13:00:00Z",
+      "latest_at": "2026-09-08T13:00:00Z",
       "primary_item": {
-        "id": "e403851c39788b25d33193c78b15146edbe25fd8",
-        "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-        "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-        "title_en": "Introducing ChatGPT Images 2.5",
-        "title_original": "Introducing ChatGPT Images 2.5",
+        "id": "0c225103d8bbdb274acb89884cf1925952614089",
+        "title": "The Work Now Within Reach",
+        "title_zh": null,
+        "title_en": "The Work Now Within Reach",
+        "title_original": "The Work Now Within Reach",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "url": "https://openai.com/index/the-work-now-within-reach",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1198,7 +1108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -1246,15 +1156,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9636,
+        "recency": 0.939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1280,7 +1190,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
+      }
+    },
+    {
+      "story_id": "story_817352332488",
+      "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
+      "url": "https://www.aibase.com/news/30936",
+      "primary_url": "https://www.aibase.com/news/30936",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c75d5ec7de2bb548d1c0a3d11635ada5aec59732",
+          "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
+          "title_zh": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
+          "title_en": null,
+          "title_original": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30936",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-09T11:31:40.678860Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c75d5ec7de2bb548d1c0a3d11635ada5aec59732",
+          "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
+          "title_zh": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
+          "title_en": null,
+          "title_original": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30936",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-09T11:31:40.678860Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T11:31:40.678860Z",
+      "latest_at": "2026-09-09T11:31:40.678860Z",
+      "primary_item": {
+        "id": "c75d5ec7de2bb548d1c0a3d11635ada5aec59732",
+        "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
+        "title_zh": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
+        "title_en": null,
+        "title_original": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30936",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -1328,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8678,
+        "recency": 0.8457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1362,89 +1354,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
-      }
-    },
-    {
-      "story_id": "story_21118e655f54",
-      "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-      "url": "https://www.aibase.com/news/30934",
-      "primary_url": "https://www.aibase.com/news/30934",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5bd8bd58734b136e8e75ad4f1b82e70ad5ad161e",
-          "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-          "title_zh": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-          "title_en": null,
-          "title_original": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30934",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T09:44:06.949620Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5bd8bd58734b136e8e75ad4f1b82e70ad5ad161e",
-          "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-          "title_zh": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-          "title_en": null,
-          "title_original": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30934",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T09:44:06.949620Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T09:44:06.949620Z",
-      "latest_at": "2026-09-09T09:44:06.949620Z",
-      "primary_item": {
-        "id": "5bd8bd58734b136e8e75ad4f1b82e70ad5ad161e",
-        "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-        "title_zh": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-        "title_en": null,
-        "title_original": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30934",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -1492,15 +1402,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7856,
+        "recency": 0.7655,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1526,7 +1436,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -1574,15 +1484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8745,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1608,7 +1518,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -1656,21 +1566,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.792,
+        "recency": 0.7718,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T17:35:10Z",
       "latest_at": "2026-09-08T17:35:10Z",
@@ -1690,7 +1599,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -1738,15 +1647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7902,
+        "recency": 0.77,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1771,7 +1680,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     },
     {
@@ -1819,15 +1728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7968,
+        "recency": 0.7764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1854,7 +1763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T10:19:57.786461Z"
+        "scored_at": "2026-09-09T12:10:59.433489Z"
       }
     }
   ]
