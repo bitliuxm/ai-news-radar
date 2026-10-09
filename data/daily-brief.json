@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-09T11:53:15.869087Z",
+  "generated_at": "2026-10-09T15:21:02.390175Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_d37a736244a0",
+      "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "primary_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
+          "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
+          "title_zh": "GPU 集群的有效调度",
+          "title_en": "Impactful scheduling for GPU clusters",
+          "title_original": "Impactful scheduling for GPU clusters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T15:20:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
+          "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
+          "title_zh": "GPU 集群的有效调度",
+          "title_en": "Impactful scheduling for GPU clusters",
+          "title_original": "Impactful scheduling for GPU clusters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T15:20:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.866,
+      "importance": 0.866,
+      "importance_score": 0.866,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9999,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T15:20:29Z",
+      "latest_at": "2026-10-09T15:20:29Z",
+      "primary_item": {
+        "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
+        "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
+        "title_zh": "GPU 集群的有效调度",
+        "title_en": "Impactful scheduling for GPU clusters",
+        "title_original": "Impactful scheduling for GPU clusters",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T15:21:51.437797Z"
+      }
+    },
     {
       "story_id": "story_a9ec40ee13cc",
       "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9319,
+        "recency": 0.8864,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -160,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.94,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8448,
+        "recency": 0.8036,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -243,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7839,
+        "recency": 0.7457,
         "story_heat": 0.0
       },
       "category": "official",
@@ -278,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -326,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7504,
+        "recency": 0.7138,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -409,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7505,
+        "recency": 0.7139,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,7 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -492,15 +575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9512,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,119 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
-      }
-    },
-    {
-      "story_id": "story_e42c7cb753df",
-      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T13:01:01Z"
-        },
-        {
-          "id": "e2dd324cf0e63487d1d1315b426aaebb805023c8",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "title_original": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-08T13:01:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T13:01:01Z"
-        },
-        {
-          "id": "e2dd324cf0e63487d1d1315b426aaebb805023c8",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "title_original": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-08T13:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7187,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T13:01:01Z",
-      "latest_at": "2026-10-08T13:01:01Z",
-      "primary_item": {
-        "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-        "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-        "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-        "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-        "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-        "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -686,21 +657,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8307,
+        "recency": 0.7902,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-08T23:02:44.683000Z",
       "latest_at": "2026-10-08T23:02:44.683000Z",
@@ -720,498 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
-      }
-    },
-    {
-      "story_id": "story_c4d769a9c422",
-      "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
-      "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-      "primary_url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
-          "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
-          "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
-          "title_en": "A note from our research leaders:",
-          "title_original": "A note from our research leaders:",
-          "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T06:17:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Newsroom (@OpenAINewsroom)"
-      ],
-      "items": [
-        {
-          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
-          "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
-          "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
-          "title_en": "A note from our research leaders:",
-          "title_original": "A note from our research leaders:",
-          "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T06:17:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9223,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T06:17:00Z",
-      "latest_at": "2026-10-09T06:17:00Z",
-      "primary_item": {
-        "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
-        "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
-        "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
-        "title_en": "A note from our research leaders:",
-        "title_original": "A note from our research leaders:",
-        "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-        "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
-      }
-    },
-    {
-      "story_id": "story_65da7bfcfb81",
-      "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "primary_url": "https://openai.com/index/legalon-halves-codex-costs",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
-          "title_zh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
-          "title_en": "LegalOn halves Codex costs while maintaining development speed",
-          "title_original": "LegalOn halves Codex costs while maintaining development speed",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
-          "title_zh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
-          "title_en": "LegalOn halves Codex costs while maintaining development speed",
-          "title_original": "LegalOn halves Codex costs while maintaining development speed",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
-      "primary_item": {
-        "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-        "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
-        "title_zh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
-        "title_en": "LegalOn halves Codex costs while maintaining development speed",
-        "title_original": "LegalOn halves Codex costs while maintaining development speed",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/legalon-halves-codex-costs",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
-      }
-    },
-    {
-      "story_id": "story_fdcac8171d89",
-      "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-      "url": "https://x.com/arena/status/2108405474391728357",
-      "primary_url": "https://x.com/arena/status/2108405474391728357",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
-          "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
-          "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2108405474391728357",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T03:53:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
-          "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
-          "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-          "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2108405474391728357",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T03:53:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.891,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T03:53:32Z",
-      "latest_at": "2026-10-09T03:53:32Z",
-      "primary_item": {
-        "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
-        "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-        "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
-        "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-        "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
-        "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2108405474391728357",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
-      }
-    },
-    {
-      "story_id": "story_76c6e547b2cc",
-      "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-      "url": "https://www.aibase.com/news/31509",
-      "primary_url": "https://www.aibase.com/news/31509",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
-          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "title_en": null,
-          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31509",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T11:53:15.869087Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
-          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "title_en": null,
-          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31509",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T11:53:15.869087Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T11:53:15.869087Z",
-      "latest_at": "2026-10-09T11:53:15.869087Z",
-      "primary_item": {
-        "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
-        "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-        "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-        "title_en": null,
-        "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31509",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
-      }
-    },
-    {
-      "story_id": "story_8cec8cc46a95",
-      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-          "title_zh": "草稿拉取请求计入拉取请求限制",
-          "title_en": "Draft pull requests count toward pull request limits",
-          "title_original": "Draft pull requests count toward pull request limits",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-          "title_zh": "草稿拉取请求计入拉取请求限制",
-          "title_en": "Draft pull requests count toward pull request limits",
-          "title_original": "Draft pull requests count toward pull request limits",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7336,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T14:25:53Z",
-      "latest_at": "2026-10-08T14:25:53Z",
-      "primary_item": {
-        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-        "title_zh": "草稿拉取请求计入拉取请求限制",
-        "title_en": "Draft pull requests count toward pull request limits",
-        "title_original": "Draft pull requests count toward pull request limits",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
-      }
-    },
-    {
-      "story_id": "story_9d420c28c726",
-      "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-      "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f9823f40d994730810318520de0f53b02b350ca",
-          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
-          "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T16:42:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "1f9823f40d994730810318520de0f53b02b350ca",
-          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
-          "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-          "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T16:42:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7581,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T16:42:42Z",
-      "latest_at": "2026-10-08T16:42:42Z",
-      "primary_item": {
-        "id": "1f9823f40d994730810318520de0f53b02b350ca",
-        "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-        "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
-        "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-        "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
-        "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -1259,21 +738,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7755,
+        "recency": 0.7377,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-08T18:17:07Z",
       "latest_at": "2026-10-08T18:17:07Z",
@@ -1293,90 +771,332 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
-      "story_id": "story_e323adeab1da",
-      "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "primary_url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c4d769a9c422",
+      "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
+      "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "primary_url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "summary": null,
+          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
+          "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
+          "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
+          "title_en": "A note from our research leaders:",
+          "title_original": "A note from our research leaders:",
+          "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T06:17:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：OpenAI Newsroom (@OpenAINewsroom)"
       ],
       "items": [
         {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "summary": null,
+          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
+          "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
+          "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
+          "title_en": "A note from our research leaders:",
+          "title_original": "A note from our research leaders:",
+          "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T06:17:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7083,
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
+      "earliest_at": "2026-10-09T06:17:00Z",
+      "latest_at": "2026-10-09T06:17:00Z",
       "primary_item": {
-        "id": "e441138912907d022d550626c930aa4e578bbe9e",
-        "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-        "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-        "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "summary": null,
+        "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
+        "title": "OpenAI 研究负责人发声明回应三名员工离职争议 / A note from our research leaders:",
+        "title_zh": "OpenAI 研究负责人发声明回应三名员工离职争议",
+        "title_en": "A note from our research leaders:",
+        "title_original": "A note from our research leaders:",
+        "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/pollo-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+        "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
+      }
+    },
+    {
+      "story_id": "story_fdcac8171d89",
+      "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+      "url": "https://x.com/arena/status/2108405474391728357",
+      "primary_url": "https://x.com/arena/status/2108405474391728357",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
+          "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
+          "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2108405474391728357",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T03:53:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
+          "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
+          "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+          "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2108405474391728357",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T03:53:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8475,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T03:53:32Z",
+      "latest_at": "2026-10-09T03:53:32Z",
+      "primary_item": {
+        "id": "7b2be2a5f58bcc5cb80e275aa14f9d3fd7b99eef",
+        "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43 / Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+        "title_zh": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
+        "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+        "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+        "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2108405474391728357",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T15:21:51.437797Z"
+      }
+    },
+    {
+      "story_id": "story_76c6e547b2cc",
+      "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+      "url": "https://www.aibase.com/news/31509",
+      "primary_url": "https://www.aibase.com/news/31509",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_en": null,
+          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31509",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T11:53:15.869087Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_en": null,
+          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31509",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T11:53:15.869087Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9512,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T11:53:15.869087Z",
+      "latest_at": "2026-10-09T11:53:15.869087Z",
+      "primary_item": {
+        "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+        "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "title_en": null,
+        "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31509",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T15:21:51.437797Z"
+      }
+    },
+    {
+      "story_id": "story_9d420c28c726",
+      "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+      "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1f9823f40d994730810318520de0f53b02b350ca",
+          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+          "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T16:42:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "1f9823f40d994730810318520de0f53b02b350ca",
+          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+          "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+          "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T16:42:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7211,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T16:42:42Z",
+      "latest_at": "2026-10-08T16:42:42Z",
+      "primary_item": {
+        "id": "1f9823f40d994730810318520de0f53b02b350ca",
+        "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+        "title_zh": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+        "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+        "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
+        "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -1424,15 +1144,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9512,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1458,7 +1178,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -1506,15 +1226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
+      "score": 0.7208,
+      "importance": 0.7208,
+      "importance_score": 0.7208,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7955,
+        "recency": 0.7567,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1539,7 +1259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -1587,15 +1307,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9512,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1621,7 +1341,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
+      }
+    },
+    {
+      "story_id": "story_9420d82252d6",
+      "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+      "primary_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "f74e1f79f4be98b615fde1c5ec69e0b2c6177da2",
+          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+          "title_en": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "title_original": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-08T20:04:26Z"
+        },
+        {
+          "id": "a496bd70e08b34bbfe069a18a1d33bab1ababfd5",
+          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+          "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+          "title_en": null,
+          "title_original": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-09T14:10:31.632000Z"
+        },
+        {
+          "id": "0a52368f78581959208b6bf786aacc4966818de3",
+          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
+          "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+          "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T10:00:26Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "TechCrunch AI",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "f74e1f79f4be98b615fde1c5ec69e0b2c6177da2",
+          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+          "title_en": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "title_original": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-08T20:04:26Z"
+        },
+        {
+          "id": "a496bd70e08b34bbfe069a18a1d33bab1ababfd5",
+          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+          "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+          "title_en": null,
+          "title_original": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-09T14:10:31.632000Z"
+        },
+        {
+          "id": "0a52368f78581959208b6bf786aacc4966818de3",
+          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
+          "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+          "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T10:00:26Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6425,
+      "importance": 0.6425,
+      "importance_score": 0.6425,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.757,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-08T20:04:26Z",
+      "latest_at": "2026-10-09T14:10:31.632000Z",
+      "primary_item": {
+        "id": "f74e1f79f4be98b615fde1c5ec69e0b2c6177da2",
+        "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
+        "title_en": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "title_original": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     },
     {
@@ -1669,15 +1528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9512,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1703,7 +1562,198 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T11:54:15.956438Z"
+        "scored_at": "2026-10-09T15:21:51.437797Z"
+      }
+    },
+    {
+      "story_id": "story_db170a853e6a",
+      "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+      "url": "https://www.aibase.com/news/31503",
+      "primary_url": "https://www.aibase.com/news/31503",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
+          "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "title_en": null,
+          "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31503",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T07:27:44.959705Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
+          "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "title_en": null,
+          "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31503",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T07:27:44.959705Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8923,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T07:27:44.959705Z",
+      "latest_at": "2026-10-09T07:27:44.959705Z",
+      "primary_item": {
+        "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
+        "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+        "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+        "title_en": null,
+        "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31503",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T15:21:51.437797Z"
+      }
+    },
+    {
+      "story_id": "story_7c70dfd569e6",
+      "title": "人类禁止对Claude的“虐待或残忍行为” / Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e2bfe851cd4e5e410e7c0bfeaf43d189f3d71d6f",
+          "title": "人类禁止对Claude的“虐待或残忍行为” / Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+          "title_zh": "人类禁止对Claude的“虐待或残忍行为”",
+          "title_en": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+          "title_original": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-08T17:00:00Z"
+        },
+        {
+          "id": "6fd8db9d186c891e37e23bb9bcd1164f01e999a1",
+          "title": "人类禁止对Claude的“虐待或残忍行为” / Anthropic bans 'abusive or cruel behavior' towards Claude",
+          "title_zh": "人类禁止对Claude的“虐待或残忍行为”",
+          "title_en": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+          "title_original": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-08T17:08:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "e2bfe851cd4e5e410e7c0bfeaf43d189f3d71d6f",
+          "title": "人类禁止对Claude的“虐待或残忍行为” / Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+          "title_zh": "人类禁止对Claude的“虐待或残忍行为”",
+          "title_en": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+          "title_original": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-08T17:00:00Z"
+        },
+        {
+          "id": "6fd8db9d186c891e37e23bb9bcd1164f01e999a1",
+          "title": "人类禁止对Claude的“虐待或残忍行为” / Anthropic bans 'abusive or cruel behavior' towards Claude",
+          "title_zh": "人类禁止对Claude的“虐待或残忍行为”",
+          "title_en": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+          "title_original": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-08T17:08:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5908,
+      "importance": 0.5908,
+      "importance_score": 0.5908,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.7242,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-08T17:00:00Z",
+      "latest_at": "2026-10-08T17:08:02Z",
+      "primary_item": {
+        "id": "e2bfe851cd4e5e410e7c0bfeaf43d189f3d71d6f",
+        "title": "人类禁止对Claude的“虐待或残忍行为” / Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+        "title_zh": "人类禁止对Claude的“虐待或残忍行为”",
+        "title_en": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+        "title_original": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T15:21:51.437797Z"
       }
     }
   ]
