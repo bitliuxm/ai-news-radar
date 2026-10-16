@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 20:21:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 23:42:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+<link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+</item>
+<item>
+<title>Bringing GPT-Rosalind to academic research labs</title>
+<link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-the-rosalind-academic-plan</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Upcoming deprecation of selected GitHub Copilot models in mid-November</title>
 <link>https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</link>
@@ -14,14 +30,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 19:35:13 +0000</pubDate>
-</item>
-<item>
-<title>Teaching students to think and learn through questions</title>
-<link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
-<guid isPermaLink="true">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
@@ -32,12 +40,12 @@
 <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
 </item>
 <item>
-<title>Apertus 1.5 Release Notes</title>
-<link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
-<guid isPermaLink="true">https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
-<description>Hugging Face Blog</description>
+<title>Codex CLI 0.163.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Download GitHub Code Quality license usage as a CSV</title>
@@ -46,6 +54,22 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 20:11:26 +0000</pubDate>
+</item>
+<item>
+<title>Teaching students to think and learn through questions</title>
+<link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
+<guid isPermaLink="true">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Apertus 1.5 Release Notes</title>
+<link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
+<guid isPermaLink="true">https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
 </item>
 <item>
 <title>可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入 / For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬</title>
@@ -88,14 +112,6 @@
 <pubDate>Thu, 15 Oct 2026 20:02:51 +0000</pubDate>
 </item>
 <item>
-<title>Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers</title>
-<link>https://huggingface.co/blog/flux-3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/flux-3</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布 / Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
 <link>https://x.com/arena/status/2110797782953132049</link>
 <guid isPermaLink="true">https://x.com/arena/status/2110797782953132049</guid>
@@ -120,20 +136,20 @@
 <pubDate>Thu, 15 Oct 2026 09:50:43 +0000</pubDate>
 </item>
 <item>
-<title>Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein</title>
-<link>https://bfl.ai/blog/flux-3-image-klein</link>
-<guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
-<description>Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。（Black Forest Labs：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
 <title>The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked</title>
 <link>https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</guid>
 <description>The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein</title>
+<link>https://bfl.ai/blog/flux-3-image-klein</link>
+<guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
+<description>Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。（Black Forest Labs：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.</title>
@@ -150,22 +166,6 @@
 <description>阶跃星辰正式开放 Step 5 Preview 模型权重，提供 BF16 与 FP8 版本，已上线 Hugging Face 和 ModelScope。（公众号：阶跃星辰（Step））</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 03:02:38 +0000</pubDate>
-</item>
-<item>
-<title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
-<link>https://huggingface.co/blog/meta-muse-spark-open</link>
-<guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型 / Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models</title>
-<link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</link>
-<guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</guid>
-<description>NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。（NVIDIA Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 15:00:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
