@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-10-21T06:05:54.370373Z",
+  "generated_at": "2026-10-21T10:06:49.665030Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_2d5f6b176445",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "primary_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
-          "title": "Southeast Asia’s digital economy to hit $368 billion",
-          "title_zh": null,
-          "title_en": "Southeast Asia’s digital economy to hit $368 billion",
-          "title_original": "Southeast Asia’s digital economy to hit $368 billion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T04:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
-          "title": "Southeast Asia’s digital economy to hit $368 billion",
-          "title_zh": null,
-          "title_en": "Southeast Asia’s digital economy to hit $368 billion",
-          "title_original": "Southeast Asia’s digital economy to hit $368 billion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T04:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9702,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T04:00:00Z",
-      "latest_at": "2026-10-21T04:00:00Z",
-      "primary_item": {
-        "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
-        "title": "Southeast Asia’s digital economy to hit $368 billion",
-        "title_zh": null,
-        "title_en": "Southeast Asia’s digital economy to hit $368 billion",
-        "title_original": "Southeast Asia’s digital economy to hit $368 billion",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
-      }
-    },
     {
       "story_id": "story_ec36170ca571",
       "title": "FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -131,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "recency": 0.7716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
+      }
+    },
+    {
+      "story_id": "story_2d5f6b176445",
+      "title": "东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+      "primary_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
+          "title": "东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion",
+          "title_zh": "东南亚数字经济规模将达3680亿美元",
+          "title_en": "Southeast Asia’s digital economy to hit $368 billion",
+          "title_original": "Southeast Asia’s digital economy to hit $368 billion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T04:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
+          "title": "东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion",
+          "title_zh": "东南亚数字经济规模将达3680亿美元",
+          "title_en": "Southeast Asia’s digital economy to hit $368 billion",
+          "title_original": "Southeast Asia’s digital economy to hit $368 billion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T04:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9155,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T04:00:00Z",
+      "latest_at": "2026-10-21T04:00:00Z",
+      "primary_item": {
+        "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
+        "title": "东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion",
+        "title_zh": "东南亚数字经济规模将达3680亿美元",
+        "title_en": "Southeast Asia’s digital economy to hit $368 billion",
+        "title_original": "Southeast Asia’s digital economy to hit $368 billion",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8168,
+        "recency": 0.7708,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,338 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
-      }
-    },
-    {
-      "story_id": "story_a59ab3527808",
-      "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-      "primary_url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-          "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-          "title_zh": "将分支保护批量迁移到代码仓库的规则集",
-          "title_en": "Bulk migrate branch protections to rulesets for a repository",
-          "title_original": "Bulk migrate branch protections to rulesets for a repository",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:06:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-          "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-          "title_zh": "将分支保护批量迁移到代码仓库的规则集",
-          "title_en": "Bulk migrate branch protections to rulesets for a repository",
-          "title_original": "Bulk migrate branch protections to rulesets for a repository",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:06:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.841,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T18:06:21Z",
-      "latest_at": "2026-10-20T18:06:21Z",
-      "primary_item": {
-        "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-        "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-        "title_zh": "将分支保护批量迁移到代码仓库的规则集",
-        "title_en": "Bulk migrate branch protections to rulesets for a repository",
-        "title_original": "Bulk migrate branch protections to rulesets for a repository",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
-      }
-    },
-    {
-      "story_id": "story_d426b0379ab0",
-      "title": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94% / Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "primary_url": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9819a745f755d21c6793a2468989fa706460ba46",
-          "title": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94% / Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "title_zh": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94%",
-          "title_en": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "title_original": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ted-taylor-restaurant",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9819a745f755d21c6793a2468989fa706460ba46",
-          "title": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94% / Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "title_zh": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94%",
-          "title_en": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "title_original": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ted-taylor-restaurant",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7481,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T10:00:00Z",
-      "latest_at": "2026-10-20T10:00:00Z",
-      "primary_item": {
-        "id": "9819a745f755d21c6793a2468989fa706460ba46",
-        "title": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94% / Franchisee reconciles cash in 94% less time with ChatGPT Work",
-        "title_zh": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94%",
-        "title_en": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-        "title_original": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/ted-taylor-restaurant",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
-      }
-    },
-    {
-      "story_id": "story_7b2ba03c7801",
-      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "title_en": "Main takeaways from SpaceX’s earnings call today",
-          "title_original": "Main takeaways from SpaceX’s earnings call today",
-          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "title_en": "Main takeaways from SpaceX’s earnings call today",
-          "title_original": "Main takeaways from SpaceX’s earnings call today",
-          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.982,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T04:50:29Z",
-      "latest_at": "2026-10-21T04:50:29Z",
-      "primary_item": {
-        "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-        "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-        "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-        "title_en": "Main takeaways from SpaceX’s earnings call today",
-        "title_original": "Main takeaways from SpaceX’s earnings call today",
-        "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
-      }
-    },
-    {
-      "story_id": "story_1587a1f5ff72",
-      "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "primary_url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8a4497b4c95036a1a081bc6cdcdec43689031e43",
-          "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-          "title_zh": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实",
-          "title_en": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-          "title_original": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:17:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8a4497b4c95036a1a081bc6cdcdec43689031e43",
-          "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-          "title_zh": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实",
-          "title_en": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-          "title_original": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:17:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8433,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T18:17:47Z",
-      "latest_at": "2026-10-20T18:17:47Z",
-      "primary_item": {
-        "id": "8a4497b4c95036a1a081bc6cdcdec43689031e43",
-        "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-        "title_zh": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实",
-        "title_en": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-        "title_original": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
@@ -628,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8405,
+        "recency": 0.7931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -663,63 +332,145 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
-      "story_id": "story_626c5bb0bff8",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "primary_url": "https://openai.com/index/terminal-x",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_7b2ba03c7801",
+      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
+      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c9cd4267973e7ff21dcbba6abc93e826983d66dd",
-          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "title_zh": null,
-          "title_en": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "title_original": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "summary": null,
+          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
+          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
+          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+          "title_en": "Main takeaways from SpaceX’s earnings call today",
+          "title_original": "Main takeaways from SpaceX’s earnings call today",
+          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/terminal-x",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T07:00:00Z"
+          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T04:50:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "c9cd4267973e7ff21dcbba6abc93e826983d66dd",
-          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "title_zh": null,
-          "title_en": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "title_original": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "summary": null,
+          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
+          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
+          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+          "title_en": "Main takeaways from SpaceX’s earnings call today",
+          "title_original": "Main takeaways from SpaceX’s earnings call today",
+          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/terminal-x",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T07:00:00Z"
+          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T04:50:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9267,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T04:50:29Z",
+      "latest_at": "2026-10-21T04:50:29Z",
+      "primary_item": {
+        "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
+        "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
+        "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+        "title_en": "Main takeaways from SpaceX’s earnings call today",
+        "title_original": "Main takeaways from SpaceX’s earnings call today",
+        "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T10:08:05.453268Z"
+      }
+    },
+    {
+      "story_id": "story_1587a1f5ff72",
+      "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "primary_url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8a4497b4c95036a1a081bc6cdcdec43689031e43",
+          "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "title_zh": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实",
+          "title_en": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "title_original": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T18:17:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "8a4497b4c95036a1a081bc6cdcdec43689031e43",
+          "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "title_zh": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实",
+          "title_en": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "title_original": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T18:17:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7164,
+        "recency": 0.7958,
         "story_heat": 0.0
       },
       "category": "official",
@@ -728,25 +479,190 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T07:00:00Z",
-      "latest_at": "2026-10-20T07:00:00Z",
+      "earliest_at": "2026-10-20T18:17:47Z",
+      "latest_at": "2026-10-20T18:17:47Z",
       "primary_item": {
-        "id": "c9cd4267973e7ff21dcbba6abc93e826983d66dd",
-        "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-        "title_zh": null,
-        "title_en": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-        "title_original": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+        "id": "8a4497b4c95036a1a081bc6cdcdec43689031e43",
+        "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+        "title_zh": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实",
+        "title_en": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+        "title_original": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/terminal-x",
-        "source": "OpenAI News",
+        "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
+      }
+    },
+    {
+      "story_id": "story_a59ab3527808",
+      "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "primary_url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
+          "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+          "title_zh": "将分支保护批量迁移到代码仓库的规则集",
+          "title_en": "Bulk migrate branch protections to rulesets for a repository",
+          "title_original": "Bulk migrate branch protections to rulesets for a repository",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T18:06:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
+          "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+          "title_zh": "将分支保护批量迁移到代码仓库的规则集",
+          "title_en": "Bulk migrate branch protections to rulesets for a repository",
+          "title_original": "Bulk migrate branch protections to rulesets for a repository",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T18:06:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7936,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T18:06:21Z",
+      "latest_at": "2026-10-20T18:06:21Z",
+      "primary_item": {
+        "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
+        "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+        "title_zh": "将分支保护批量迁移到代码仓库的规则集",
+        "title_en": "Bulk migrate branch protections to rulesets for a repository",
+        "title_original": "Bulk migrate branch protections to rulesets for a repository",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T10:08:05.453268Z"
+      }
+    },
+    {
+      "story_id": "story_de3ff4abf67c",
+      "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+      "url": "https://www.aibase.com/news/31780",
+      "primary_url": "https://www.aibase.com/news/31780",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3ee63a7670a741f7d02938dbefdfe1e4835691a2",
+          "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+          "title_zh": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+          "title_en": null,
+          "title_original": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31780",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T10:06:49.665030Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3ee63a7670a741f7d02938dbefdfe1e4835691a2",
+          "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+          "title_zh": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+          "title_en": null,
+          "title_original": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31780",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T10:06:49.665030Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T10:06:49.665030Z",
+      "latest_at": "2026-10-21T10:06:49.665030Z",
+      "primary_item": {
+        "id": "3ee63a7670a741f7d02938dbefdfe1e4835691a2",
+        "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+        "title_zh": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+        "title_en": null,
+        "title_original": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31780",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
@@ -794,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9778,
+        "recency": 0.9227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,89 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
-      }
-    },
-    {
-      "story_id": "story_e60845a1dbaa",
-      "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-      "url": "https://www.aibase.com/news/31771",
-      "primary_url": "https://www.aibase.com/news/31771",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9aa7d88a864c11a35d95df6613d450143bc07e17",
-          "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-          "title_zh": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-          "title_en": null,
-          "title_original": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31771",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-21T06:05:54.370373Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9aa7d88a864c11a35d95df6613d450143bc07e17",
-          "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-          "title_zh": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-          "title_en": null,
-          "title_original": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31771",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-21T06:05:54.370373Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T06:05:54.370373Z",
-      "latest_at": "2026-10-21T06:05:54.370373Z",
-      "primary_item": {
-        "id": "9aa7d88a864c11a35d95df6613d450143bc07e17",
-        "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-        "title_zh": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-        "title_en": null,
-        "title_original": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31771",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
@@ -958,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8079,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -993,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
@@ -1041,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8728,
+        "recency": 0.8236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +909,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
+      }
+    },
+    {
+      "story_id": "story_98477f32324a",
+      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+      "url": "https://x.com/thsottiaux/status/2112712984644784534",
+      "primary_url": "https://x.com/thsottiaux/status/2112712984644784534",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
+          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+          "title_zh": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+          "title_en": null,
+          "title_original": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+          "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2112712984644784534",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T01:10:02Z"
+        },
+        {
+          "id": "30c87897a01f06e505cf703b61b01520ec34024c",
+          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留 / Day 16/ You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours an...",
+          "title_zh": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+          "title_en": "Day 16/ You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours an...",
+          "title_original": "Day 16/ You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours an...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2112712984644784534",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-21T01:10:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
+          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+          "title_zh": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+          "title_en": null,
+          "title_original": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+          "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2112712984644784534",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T01:10:02Z"
+        },
+        {
+          "id": "30c87897a01f06e505cf703b61b01520ec34024c",
+          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留 / Day 16/ You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours an...",
+          "title_zh": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+          "title_en": "Day 16/ You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours an...",
+          "title_original": "Day 16/ You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours an...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2112712984644784534",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-21T01:10:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8788,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-21T01:10:02Z",
+      "latest_at": "2026-10-21T01:10:02Z",
+      "primary_item": {
+        "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
+        "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+        "title_zh": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+        "title_en": null,
+        "title_original": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+        "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2112712984644784534",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
@@ -1123,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8304,
+        "recency": 0.7836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1158,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
@@ -1206,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7761,
+        "recency": 0.7324,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,30 +1184,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
-      "story_id": "story_1965aa09afd6",
-      "title": "Hugging Face 掌门人呛声 Netflix：把 AI 拍成\"末日片\"，受害方都不认",
-      "url": "https://www.aibase.com/news/31772",
-      "primary_url": "https://www.aibase.com/news/31772",
+      "story_id": "story_16210d66c1b2",
+      "title": "Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧",
+      "url": "https://www.aibase.com/news/31778",
+      "primary_url": "https://www.aibase.com/news/31778",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3bc69da03f3e747da60acbac9e2108ee61aa5259",
-          "title": "Hugging Face 掌门人呛声 Netflix：把 AI 拍成\"末日片\"，受害方都不认",
-          "title_zh": "Hugging Face 掌门人呛声 Netflix：把 AI 拍成\"末日片\"，受害方都不认",
+          "id": "b87d1eed782d1f613a760db3cd5fab4d0d8de6f2",
+          "title": "Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧",
+          "title_zh": "Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧",
           "title_en": null,
-          "title_original": "Hugging Face 掌门人呛声 Netflix：把 AI 拍成\"末日片\"，受害方都不认",
+          "title_original": "Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31772",
+          "url": "https://www.aibase.com/news/31778",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-21T06:05:54.370373Z"
+          "published_at": "2026-10-21T10:06:49.665030Z"
         }
       ],
       "source_count": 1,
@@ -1271,18 +1216,18 @@
       ],
       "items": [
         {
-          "id": "3bc69da03f3e747da60acbac9e2108ee61aa5259",
-          "title": "Hugging Face 掌门人呛声 Netflix：把 AI 拍成\"末日片\"，受害方都不认",
-          "title_zh": "Hugging Face 掌门人呛声 Netflix：把 AI 拍成\"末日片\"，受害方都不认",
+          "id": "b87d1eed782d1f613a760db3cd5fab4d0d8de6f2",
+          "title": "Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧",
+          "title_zh": "Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧",
           "title_en": null,
-          "title_original": "Hugging Face 掌门人呛声 Netflix：把 AI 拍成\"末日片\"，受害方都不认",
+          "title_original": "Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31772",
+          "url": "https://www.aibase.com/news/31778",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-21T06:05:54.370373Z"
+          "published_at": "2026-10-21T10:06:49.665030Z"
         }
       ],
       "item_count": 1,
@@ -1303,17 +1248,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T06:05:54.370373Z",
-      "latest_at": "2026-10-21T06:05:54.370373Z",
+      "earliest_at": "2026-10-21T10:06:49.665030Z",
+      "latest_at": "2026-10-21T10:06:49.665030Z",
       "primary_item": {
-        "id": "3bc69da03f3e747da60acbac9e2108ee61aa5259",
-        "title": "Hugging Face 掌门人呛声 Netflix：把 AI 拍成\"末日片\"，受害方都不认",
-        "title_zh": "Hugging Face 掌门人呛声 Netflix：把 AI 拍成\"末日片\"，受害方都不认",
+        "id": "b87d1eed782d1f613a760db3cd5fab4d0d8de6f2",
+        "title": "Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧",
+        "title_zh": "Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧",
         "title_en": null,
-        "title_original": "Hugging Face 掌门人呛声 Netflix：把 AI 拍成\"末日片\"，受害方都不认",
+        "title_original": "Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31772",
+        "url": "https://www.aibase.com/news/31778",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1321,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
@@ -1369,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9157,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1402,169 +1347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
-      }
-    },
-    {
-      "story_id": "story_98477f32324a",
-      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-      "url": "https://x.com/thsottiaux/status/2112712984644784534",
-      "primary_url": "https://x.com/thsottiaux/status/2112712984644784534",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
-          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-          "title_zh": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-          "title_en": null,
-          "title_original": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-          "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2112712984644784534",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T01:10:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
-          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-          "title_zh": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-          "title_en": null,
-          "title_original": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-          "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2112712984644784534",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T01:10:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9313,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-21T01:10:02Z",
-      "latest_at": "2026-10-21T01:10:02Z",
-      "primary_item": {
-        "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
-        "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-        "title_zh": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-        "title_en": null,
-        "title_original": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-        "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2112712984644784534",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
-      }
-    },
-    {
-      "story_id": "story_75f1482a0a43",
-      "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-      "source": "公众号：DeepSeek（深度求索）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
-          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-          "title_zh": "DeepSeek 全面开源内部推理框架 DeepInfer",
-          "title_en": null,
-          "title_original": "DeepSeek 全面开源内部推理框架 DeepInfer",
-          "summary": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-          "source": "公众号：DeepSeek（深度求索）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T08:54:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：DeepSeek（深度求索）"
-      ],
-      "items": [
-        {
-          "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
-          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-          "title_zh": "DeepSeek 全面开源内部推理框架 DeepInfer",
-          "title_en": null,
-          "title_original": "DeepSeek 全面开源内部推理框架 DeepInfer",
-          "summary": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-          "source": "公众号：DeepSeek（深度求索）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T08:54:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7365,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-20T08:54:54Z",
-      "latest_at": "2026-10-20T08:54:54Z",
-      "primary_item": {
-        "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
-        "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-        "title_zh": "DeepSeek 全面开源内部推理框架 DeepInfer",
-        "title_en": null,
-        "title_original": "DeepSeek 全面开源内部推理框架 DeepInfer",
-        "summary": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-        "source": "公众号：DeepSeek（深度求索）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     },
     {
@@ -1612,15 +1395,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8159,
+        "recency": 0.7699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1645,7 +1428,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T06:20:28.123428Z"
+        "scored_at": "2026-10-21T10:08:05.453268Z"
+      }
+    },
+    {
+      "story_id": "story_93f048271b17",
+      "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "primary_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
+          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy",
+          "title_zh": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+          "title_en": "Anthropic’s cloud partnerships are getting messy",
+          "title_original": "Anthropic’s cloud partnerships are getting messy",
+          "summary": "据泄露给华尔街日报的 S-1 文件，Anthropic 难以从 AWS、Google 和 Microsoft 获得足够云算力，这些厂商日益将其视为竞争者而非客户。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T21:25:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
+          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy",
+          "title_zh": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+          "title_en": "Anthropic’s cloud partnerships are getting messy",
+          "title_original": "Anthropic’s cloud partnerships are getting messy",
+          "summary": "据泄露给华尔街日报的 S-1 文件，Anthropic 难以从 AWS、Google 和 Microsoft 获得足够云算力，这些厂商日益将其视为竞争者而非客户。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T21:25:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8325,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-20T21:25:22Z",
+      "latest_at": "2026-10-20T21:25:22Z",
+      "primary_item": {
+        "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
+        "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy",
+        "title_zh": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+        "title_en": "Anthropic’s cloud partnerships are getting messy",
+        "title_original": "Anthropic’s cloud partnerships are getting messy",
+        "summary": "据泄露给华尔街日报的 S-1 文件，Anthropic 难以从 AWS、Google 和 Microsoft 获得足够云算力，这些厂商日益将其视为竞争者而非客户。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T10:08:05.453268Z"
+      }
+    },
+    {
+      "story_id": "story_b4d45cb1791e",
+      "title": "公共预览版中的 GitHub 软件包防火墙 / GitHub package firewall in public preview",
+      "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cf9b2c4fb3358b75c2f32e05fa6fad8cddc7cf2a",
+          "title": "公共预览版中的 GitHub 软件包防火墙 / GitHub package firewall in public preview",
+          "title_zh": "公共预览版中的 GitHub 软件包防火墙",
+          "title_en": "GitHub package firewall in public preview",
+          "title_original": "GitHub package firewall in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T16:11:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cf9b2c4fb3358b75c2f32e05fa6fad8cddc7cf2a",
+          "title": "公共预览版中的 GitHub 软件包防火墙 / GitHub package firewall in public preview",
+          "title_zh": "公共预览版中的 GitHub 软件包防火墙",
+          "title_en": "GitHub package firewall in public preview",
+          "title_original": "GitHub package firewall in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T16:11:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.772,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T16:11:53Z",
+      "latest_at": "2026-10-20T16:11:53Z",
+      "primary_item": {
+        "id": "cf9b2c4fb3358b75c2f32e05fa6fad8cddc7cf2a",
+        "title": "公共预览版中的 GitHub 软件包防火墙 / GitHub package firewall in public preview",
+        "title_zh": "公共预览版中的 GitHub 软件包防火墙",
+        "title_en": "GitHub package firewall in public preview",
+        "title_original": "GitHub package firewall in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T10:08:05.453268Z"
+      }
+    },
+    {
+      "story_id": "story_58c8f915d496",
+      "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+      "url": "https://www.aibase.com/news/31776",
+      "primary_url": "https://www.aibase.com/news/31776",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "da64751ded27dd9173aef7d562b7ae70d0128694",
+          "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+          "title_zh": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+          "title_en": null,
+          "title_original": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31776",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T10:06:49.665030Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "da64751ded27dd9173aef7d562b7ae70d0128694",
+          "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+          "title_zh": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+          "title_en": null,
+          "title_original": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31776",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T10:06:49.665030Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T10:06:49.665030Z",
+      "latest_at": "2026-10-21T10:06:49.665030Z",
+      "primary_item": {
+        "id": "da64751ded27dd9173aef7d562b7ae70d0128694",
+        "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+        "title_zh": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+        "title_en": null,
+        "title_original": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31776",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T10:08:05.453268Z"
       }
     }
   ]
