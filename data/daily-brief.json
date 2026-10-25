@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:33:26.487752Z",
+  "generated_at": "2026-10-25T09:47:45.489856Z",
   "window_hours": 24,
   "total_items": 9,
   "items": [
@@ -48,21 +48,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7454,
+        "recency": 0.7217,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-24T11:12:36Z",
       "latest_at": "2026-10-24T11:12:36Z",
@@ -82,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:40:19.907831Z"
+        "scored_at": "2026-10-25T09:49:56.466263Z"
       }
     },
     {
@@ -130,15 +129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7818,
+        "recency": 0.7569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -163,7 +162,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:40:19.907831Z"
+        "scored_at": "2026-10-25T09:49:56.466263Z"
       }
     },
     {
@@ -204,8 +203,8 @@
         },
         {
           "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "title_zh": null,
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "title_zh": "Cerebras 部署万亿参数人工智能模型",
           "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
           "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
           "summary": null,
@@ -254,8 +253,8 @@
         },
         {
           "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "title_zh": null,
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "title_zh": "Cerebras 部署万亿参数人工智能模型",
           "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
           "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
           "summary": null,
@@ -269,15 +268,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9934,
+        "recency": 0.9618,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -302,7 +301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:40:19.907831Z"
+        "scored_at": "2026-10-25T09:49:56.466263Z"
       }
     },
     {
@@ -408,15 +407,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9107,
+        "recency": 0.8818,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -441,7 +440,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:40:19.907831Z"
+        "scored_at": "2026-10-25T09:49:56.466263Z"
       }
     },
     {
@@ -467,7 +466,7 @@
           "published_at": "2026-10-25T01:04:53.332000Z"
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
           "title_en": "No signs of AI payoff outside the tech sector",
@@ -475,9 +474,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z"
         },
         {
@@ -497,7 +496,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.apollo.com"
       ],
@@ -517,7 +516,7 @@
           "published_at": "2026-10-25T01:04:53.332000Z"
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
           "title_en": "No signs of AI payoff outside the tech sector",
@@ -525,9 +524,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z"
         },
         {
@@ -547,15 +546,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9107,
+        "recency": 0.8818,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -580,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:40:19.907831Z"
+        "scored_at": "2026-10-25T09:49:56.466263Z"
       }
     },
     {
@@ -621,8 +620,8 @@
         },
         {
           "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "title_zh": null,
+          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "title_zh": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？",
           "title_en": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
           "title_original": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
           "summary": null,
@@ -671,8 +670,8 @@
         },
         {
           "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "title_zh": null,
+          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "title_zh": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？",
           "title_en": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
           "title_original": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
           "summary": null,
@@ -686,15 +685,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9108,
+        "recency": 0.8818,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -719,7 +718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:40:19.907831Z"
+        "scored_at": "2026-10-25T09:49:56.466263Z"
       }
     },
     {
@@ -727,11 +726,11 @@
       "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
       "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
       "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "id": "8edb78d4281318f7283191af552c8732be334942",
           "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
           "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
           "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
@@ -739,9 +738,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T15:35:17Z"
         },
         {
@@ -761,12 +760,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "id": "8edb78d4281318f7283191af552c8732be334942",
           "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
           "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
           "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
@@ -774,9 +773,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T15:35:17Z"
         },
         {
@@ -796,15 +795,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7941,
+        "recency": 0.7688,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -814,7 +813,7 @@
       "earliest_at": "2026-10-24T15:35:17Z",
       "latest_at": "2026-10-24T15:35:17Z",
       "primary_item": {
-        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+        "id": "8edb78d4281318f7283191af552c8732be334942",
         "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
         "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
         "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
@@ -822,14 +821,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:40:19.907831Z"
+        "scored_at": "2026-10-25T09:49:56.466263Z"
       }
     },
     {
@@ -906,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7465,
+        "recency": 0.7228,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -936,10 +935,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:40:19.907831Z"
+        "scored_at": "2026-10-25T09:49:56.466263Z"
       }
     },
     {
@@ -1016,15 +1015,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
+      "score": 0.495,
+      "importance": 0.495,
+      "importance_score": 0.495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7416,
+        "recency": 0.7181,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1049,7 +1048,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:40:19.907831Z"
+        "scored_at": "2026-10-25T09:49:56.466263Z"
       }
     }
   ]
