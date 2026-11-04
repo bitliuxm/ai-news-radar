@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T20:49:04.116466Z",
+  "generated_at": "2026-11-04T22:39:09.832691Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_a5ecfede95e9",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
       "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI News",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "title_zh": null,
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
           "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
           "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
           "summary": null,
@@ -26,9 +26,23 @@
           "published_at": "2026-11-04T14:30:00Z"
         },
         {
+          "id": "195fd593e3472bb34545c23e2c84a75cf54bf212",
+          "title": "OpenAI将收购Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
+          "title_en": null,
+          "title_original": "OpenAI将收购Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T21:12:50.695000Z"
+        },
+        {
           "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
-          "title": "OpenAI to acquire Pierre Computer Company",
-          "title_zh": null,
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
           "title_en": "OpenAI to acquire Pierre Computer Company",
           "title_original": "OpenAI to acquire Pierre Computer Company",
           "summary": null,
@@ -41,8 +55,8 @@
         },
         {
           "id": "3c4b7ca66be58e1ab9ed97226c73f51e1975e9ad",
-          "title": "OpenAI to acquire Pierre Computer Company",
-          "title_zh": null,
+          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI 将收购 Pierre 计算机公司",
           "title_en": "OpenAI to acquire Pierre Computer Company",
           "title_original": "OpenAI to acquire Pierre Computer Company",
           "summary": null,
@@ -68,17 +82,18 @@
           "published_at": "2026-11-04T15:21:21Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Hacker News (黑客新闻)",
         "OpenAI News",
-        "hackernews"
+        "hackernews",
+        "openai.com"
       ],
       "items": [
         {
           "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "title_zh": null,
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
           "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
           "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
           "summary": null,
@@ -90,9 +105,23 @@
           "published_at": "2026-11-04T14:30:00Z"
         },
         {
+          "id": "195fd593e3472bb34545c23e2c84a75cf54bf212",
+          "title": "OpenAI将收购Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
+          "title_en": null,
+          "title_original": "OpenAI将收购Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T21:12:50.695000Z"
+        },
+        {
           "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
-          "title": "OpenAI to acquire Pierre Computer Company",
-          "title_zh": null,
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
           "title_en": "OpenAI to acquire Pierre Computer Company",
           "title_original": "OpenAI to acquire Pierre Computer Company",
           "summary": null,
@@ -105,8 +134,8 @@
         },
         {
           "id": "3c4b7ca66be58e1ab9ed97226c73f51e1975e9ad",
-          "title": "OpenAI to acquire Pierre Computer Company",
-          "title_zh": null,
+          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI 将收购 Pierre 计算机公司",
           "title_en": "OpenAI to acquire Pierre Computer Company",
           "title_original": "OpenAI to acquire Pierre Computer Company",
           "summary": null,
@@ -132,18 +161,18 @@
           "published_at": "2026-11-04T15:21:21Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.9113,
-      "importance": 0.9113,
-      "importance_score": 0.9113,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.932,
+      "importance": 0.932,
+      "importance_score": 0.932,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9128,
-        "story_heat": 0.75
+        "recency": 0.8889,
+        "story_heat": 1.0
       },
       "category": "official",
       "reasons": [
@@ -153,11 +182,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-11-04T14:30:00Z",
-      "latest_at": "2026-11-04T15:21:21Z",
+      "latest_at": "2026-11-04T21:12:50.695000Z",
       "primary_item": {
         "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-        "title_zh": null,
+        "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_zh": "OpenAI将收购Pierre Computer Company",
         "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
         "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
         "summary": null,
@@ -170,12 +199,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
       "story_id": "story_a1cac76551fa",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "source": "Hugging Face Blog",
@@ -183,8 +212,8 @@
       "sources": [
         {
           "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_zh": null,
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
           "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "summary": null,
@@ -203,8 +232,8 @@
       "items": [
         {
           "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_zh": null,
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
           "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "summary": null,
@@ -218,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9579,
+        "recency": 0.9328,
         "story_heat": 0.0
       },
       "category": "official",
@@ -239,8 +268,8 @@
       "latest_at": "2026-11-04T17:50:10Z",
       "primary_item": {
         "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-        "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "title_zh": null,
+        "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
         "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
         "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
         "summary": null,
@@ -253,12 +282,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
       "story_id": "story_bf5abd3d9223",
-      "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+      "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
       "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
       "primary_url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
       "source": "GitHub Changelog",
@@ -266,8 +295,8 @@
       "sources": [
         {
           "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
-          "title": "GitHub Copilot is now available in Xcode’s coding assistant",
-          "title_zh": null,
+          "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_zh": "GitHub Copilot 现已在 Xcode 的编码助手中可用",
           "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
           "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
           "summary": null,
@@ -286,8 +315,8 @@
       "items": [
         {
           "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
-          "title": "GitHub Copilot is now available in Xcode’s coding assistant",
-          "title_zh": null,
+          "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_zh": "GitHub Copilot 现已在 Xcode 的编码助手中可用",
           "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
           "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
           "summary": null,
@@ -301,15 +330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9766,
+        "recency": 0.9511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -322,8 +351,8 @@
       "latest_at": "2026-11-04T19:10:40Z",
       "primary_item": {
         "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
-        "title": "GitHub Copilot is now available in Xcode’s coding assistant",
-        "title_zh": null,
+        "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+        "title_zh": "GitHub Copilot 现已在 Xcode 的编码助手中可用",
         "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
         "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
         "summary": null,
@@ -336,12 +365,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
       "story_id": "story_103533f8718a",
-      "title": "CodeQL 2.27.4 improves accuracy and query metadata",
+      "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
       "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
       "primary_url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
       "source": "GitHub Changelog",
@@ -349,8 +378,8 @@
       "sources": [
         {
           "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
-          "title": "CodeQL 2.27.4 improves accuracy and query metadata",
-          "title_zh": null,
+          "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+          "title_zh": "CodeQL 2.27.4 提高了准确性和查询元数据",
           "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
           "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
           "summary": null,
@@ -369,8 +398,8 @@
       "items": [
         {
           "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
-          "title": "CodeQL 2.27.4 improves accuracy and query metadata",
-          "title_zh": null,
+          "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+          "title_zh": "CodeQL 2.27.4 提高了准确性和查询元数据",
           "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
           "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
           "summary": null,
@@ -384,15 +413,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9894,
+        "recency": 0.9635,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,8 +434,8 @@
       "latest_at": "2026-11-04T20:04:52Z",
       "primary_item": {
         "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
-        "title": "CodeQL 2.27.4 improves accuracy and query metadata",
-        "title_zh": null,
+        "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+        "title_zh": "CodeQL 2.27.4 提高了准确性和查询元数据",
         "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
         "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
         "summary": null,
@@ -419,7 +448,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -467,15 +496,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8191,
+        "recency": 0.7977,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +531,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
+      }
+    },
+    {
+      "story_id": "story_f06268fdc285",
+      "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+          "title_zh": "减少一千条通往根的路径",
+          "title_en": "A thousand fewer paths to root",
+          "title_original": "A thousand fewer paths to root",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+          "title_zh": "减少一千条通往根的路径",
+          "title_en": "A thousand fewer paths to root",
+          "title_original": "A thousand fewer paths to root",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8093,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T08:00:00Z",
+      "latest_at": "2026-11-04T08:00:00Z",
+      "primary_item": {
+        "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+        "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+        "title_zh": "减少一千条通往根的路径",
+        "title_en": "A thousand fewer paths to root",
+        "title_original": "A thousand fewer paths to root",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -550,15 +662,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -583,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -631,15 +743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7461,
+        "recency": 0.7266,
         "story_heat": 0.0
       },
       "category": "official",
@@ -666,7 +778,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
+      }
+    },
+    {
+      "story_id": "story_8ce81320493c",
+      "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "primary_url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
+          "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "title_zh": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务",
+          "title_en": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "title_original": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
+          "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "title_zh": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务",
+          "title_en": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "title_original": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.721,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T00:00:00Z",
+      "latest_at": "2026-11-04T00:00:00Z",
+      "primary_item": {
+        "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
+        "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "title_zh": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务",
+        "title_en": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "title_original": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/devrev-enterprise-self-service",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -714,15 +909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,7 +942,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -795,15 +990,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,7 +1023,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -876,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,7 +1104,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -957,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,7 +1185,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
+      }
+    },
+    {
+      "story_id": "story_8f4aedea0f10",
+      "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "primary_url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_zh": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+          "title_en": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T20:23:24Z"
+        },
+        {
+          "id": "74c50caeb57913861aee1bd42d65236d7219279e",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&T’s smart security system",
+          "title_zh": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+          "title_en": "Gemini for Home now plugs into AT&T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&T’s smart security system",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T20:23:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_zh": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+          "title_en": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T20:23:24Z"
+        },
+        {
+          "id": "74c50caeb57913861aee1bd42d65236d7219279e",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&T’s smart security system",
+          "title_zh": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+          "title_en": "Gemini for Home now plugs into AT&T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&T’s smart security system",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T20:23:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6222,
+      "importance": 0.6222,
+      "importance_score": 0.6222,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9679,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T20:23:24Z",
+      "latest_at": "2026-11-04T20:23:24Z",
+      "primary_item": {
+        "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+        "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "title_zh": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+        "title_en": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "title_original": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -1038,15 +1342,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1071,116 +1375,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
-      }
-    },
-    {
-      "story_id": "story_a6e835e9b328",
-      "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-04T12:00:00Z"
-        },
-        {
-          "id": "40424c68d530dfbd06497a1f591e102c7a22ab50",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn’t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn’t figured out how to make AI pay like its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-04T12:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-04T12:00:00Z"
-        },
-        {
-          "id": "40424c68d530dfbd06497a1f591e102c7a22ab50",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn’t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn’t figured out how to make AI pay like its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-04T12:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.8804,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T12:00:00Z",
-      "latest_at": "2026-11-04T12:00:00Z",
-      "primary_item": {
-        "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
-        "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-        "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-        "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-        "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -1228,15 +1423,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1261,7 +1456,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -1367,15 +1562,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5677,
-      "importance": 0.5677,
-      "importance_score": 0.5677,
+      "score": 0.5631,
+      "importance": 0.5631,
+      "importance_score": 0.5631,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.983,
+        "recency": 0.9573,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1400,146 +1595,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
-      "story_id": "story_fe62fef1d184",
-      "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-      "url": "https://uncracked.city",
-      "primary_url": "https://uncracked.city",
-      "source": "uncracked.city",
-      "source_name": "Buzzing",
+      "story_id": "story_a6e835e9b328",
+      "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "ea4c5a644193422b17aa6629543f44839f6358e6",
-          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_en": null,
-          "title_original": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+          "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
+          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
+          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
+          "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+          "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://uncracked.city",
-          "source": "uncracked.city",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:20.641000Z"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T12:00:00Z"
         },
         {
-          "id": "6ceeba31f807217f7dbe9c86e14cb1c7cc46d4a3",
-          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "id": "40424c68d530dfbd06497a1f591e102c7a22ab50",
+          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn’t figured out how to make AI pay like its search engine",
+          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
+          "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
+          "title_original": "Google hasn’t figured out how to make AI pay like its search engine",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://uncracked.city",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T21:20:03Z"
-        },
-        {
-          "id": "64a6123313d1d91e35e475c4ef8052d59d9b7354",
-          "title": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_zh": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言",
-          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50358352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T21:20:03Z"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T12:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "uncracked.city"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "ea4c5a644193422b17aa6629543f44839f6358e6",
-          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_en": null,
-          "title_original": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+          "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
+          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
+          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
+          "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+          "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://uncracked.city",
-          "source": "uncracked.city",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:20.641000Z"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T12:00:00Z"
         },
         {
-          "id": "6ceeba31f807217f7dbe9c86e14cb1c7cc46d4a3",
-          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "id": "40424c68d530dfbd06497a1f591e102c7a22ab50",
+          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn’t figured out how to make AI pay like its search engine",
+          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
+          "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
+          "title_original": "Google hasn’t figured out how to make AI pay like its search engine",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://uncracked.city",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T21:20:03Z"
-        },
-        {
-          "id": "64a6123313d1d91e35e475c4ef8052d59d9b7354",
-          "title": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_zh": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言",
-          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50358352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T21:20:03Z"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T12:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5571,
-      "importance": 0.5571,
-      "importance_score": 0.5571,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5898,
+      "importance": 0.5898,
+      "importance_score": 0.5898,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9242,
-        "story_heat": 0.5
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.8574,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-03T21:20:03Z",
-      "latest_at": "2026-11-04T15:21:20.641000Z",
+      "earliest_at": "2026-11-04T12:00:00Z",
+      "latest_at": "2026-11-04T12:00:00Z",
       "primary_item": {
-        "id": "ea4c5a644193422b17aa6629543f44839f6358e6",
-        "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-        "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-        "title_en": null,
-        "title_original": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+        "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
+        "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
+        "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
+        "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+        "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://uncracked.city",
-        "source": "uncracked.city",
-        "source_name": "Buzzing"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -1645,15 +1810,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5571,
-      "importance": 0.5571,
-      "importance_score": 0.5571,
+      "score": 0.5528,
+      "importance": 0.5528,
+      "importance_score": 0.5528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9242,
+        "recency": 0.9,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1678,7 +1843,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     },
     {
@@ -1784,15 +1949,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5571,
-      "importance": 0.5571,
-      "importance_score": 0.5571,
+      "score": 0.5528,
+      "importance": 0.5528,
+      "importance_score": 0.5528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9242,
+        "recency": 0.9,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1817,227 +1982,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
-      }
-    },
-    {
-      "story_id": "story_d05b18658499",
-      "title": "腾讯 Hy4",
-      "url": "https://hy.tencent.ai/research/hy4",
-      "primary_url": "https://hy.tencent.ai/research/hy4",
-      "source": "hy.tencent.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "eb2608b2cd7e6d902b842e0197e02d5c23f00048",
-          "title": "腾讯 Hy4",
-          "title_zh": "腾讯 Hy4",
-          "title_en": null,
-          "title_original": "腾讯 Hy4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hy.tencent.ai/research/hy4",
-          "source": "hy.tencent.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T20:08:58.499000Z"
-        },
-        {
-          "id": "34a9db4d10bc5e8ee5a00a84d0efc137c67a3722",
-          "title": "腾讯 Hy4 / Tencent Hy4",
-          "title_zh": "腾讯 Hy4",
-          "title_en": "Tencent Hy4",
-          "title_original": "Tencent Hy4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hy.tencent.ai/research/hy4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T14:11:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hy.tencent.ai"
-      ],
-      "items": [
-        {
-          "id": "eb2608b2cd7e6d902b842e0197e02d5c23f00048",
-          "title": "腾讯 Hy4",
-          "title_zh": "腾讯 Hy4",
-          "title_en": null,
-          "title_original": "腾讯 Hy4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hy.tencent.ai/research/hy4",
-          "source": "hy.tencent.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T20:08:58.499000Z"
-        },
-        {
-          "id": "34a9db4d10bc5e8ee5a00a84d0efc137c67a3722",
-          "title": "腾讯 Hy4 / Tencent Hy4",
-          "title_zh": "腾讯 Hy4",
-          "title_en": "Tencent Hy4",
-          "title_original": "Tencent Hy4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hy.tencent.ai/research/hy4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T14:11:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9904,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T14:11:26Z",
-      "latest_at": "2026-11-04T20:08:58.499000Z",
-      "primary_item": {
-        "id": "eb2608b2cd7e6d902b842e0197e02d5c23f00048",
-        "title": "腾讯 Hy4",
-        "title_zh": "腾讯 Hy4",
-        "title_en": null,
-        "title_original": "腾讯 Hy4",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hy.tencent.ai/research/hy4",
-        "source": "hy.tencent.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
-      }
-    },
-    {
-      "story_id": "story_136f6689901b",
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "primary_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
-          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "title_zh": null,
-          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T19:55:14Z"
-        },
-        {
-          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
-          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "title_zh": null,
-          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50370654",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T19:55:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
-          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "title_zh": null,
-          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T19:55:14Z"
-        },
-        {
-          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
-          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "title_zh": null,
-          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50370654",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T19:55:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9871,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T19:55:14Z",
-      "latest_at": "2026-11-04T19:55:14Z",
-      "primary_item": {
-        "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
-        "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-        "title_zh": null,
-        "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-        "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T21:13:43.781426Z"
+        "scored_at": "2026-11-04T22:40:09.386399Z"
       }
     }
   ]
