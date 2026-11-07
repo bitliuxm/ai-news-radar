@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T18:46:18.602935Z",
+  "generated_at": "2026-11-07T20:56:06.409305Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_255b7fbabd28",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7676,
+        "recency": 0.744,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
+        "scored_at": "2026-11-07T20:57:01.549590Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7437,
+        "recency": 0.7208,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
+        "scored_at": "2026-11-07T20:57:01.549590Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.744,
+        "recency": 0.7211,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
+        "scored_at": "2026-11-07T20:57:01.549590Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7303,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,95 +332,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
-      }
-    },
-    {
-      "story_id": "story_e1651628c642",
-      "title": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
-          "title": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
-          "title_zh": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多",
-          "title_en": "@GitHub in Slack and Teams is generally available and more",
-          "title_original": "@GitHub in Slack and Teams is generally available and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T20:31:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
-          "title": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
-          "title_zh": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多",
-          "title_en": "@GitHub in Slack and Teams is generally available and more",
-          "title_original": "@GitHub in Slack and Teams is generally available and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T20:31:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7945,
-      "importance": 0.7945,
-      "importance_score": 0.7945,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7252,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T20:31:08Z",
-      "latest_at": "2026-11-06T20:31:08Z",
-      "primary_item": {
-        "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
-        "title": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
-        "title_zh": "Slack 和 Teams 中的@GitHub 已普遍可用以及更多",
-        "title_en": "@GitHub in Slack and Teams is generally available and more",
-        "title_original": "@GitHub in Slack and Teams is generally available and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
+        "scored_at": "2026-11-07T20:57:01.549590Z"
       }
     },
     {
       "story_id": "story_a4b82eca9501",
-      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+      "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
       "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
       "primary_url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
       "source": "Hacker News (黑客新闻)",
@@ -428,8 +345,8 @@
       "sources": [
         {
           "id": "0eff591ddab3052fb4d9a7dfd7f217912a0850f0",
-          "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_zh": null,
+          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+          "title_zh": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成",
           "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
           "title_original": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
           "summary": null,
@@ -442,8 +359,8 @@
         },
         {
           "id": "534ec052b6c26339eb31448ba00c6fa201d6f785",
-          "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_zh": null,
+          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+          "title_zh": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成",
           "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
           "title_original": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
           "summary": null,
@@ -453,9 +370,23 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-11-07T18:02:17Z"
+        },
+        {
+          "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
+          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
+          "title_zh": "微软研究院人工智能前沿小组的终结",
+          "title_en": "The end of Microsoft Research's AI Frontiers group",
+          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50406563",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T18:02:17Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews"
@@ -463,8 +394,8 @@
       "items": [
         {
           "id": "0eff591ddab3052fb4d9a7dfd7f217912a0850f0",
-          "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_zh": null,
+          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+          "title_zh": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成",
           "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
           "title_original": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
           "summary": null,
@@ -477,8 +408,8 @@
         },
         {
           "id": "534ec052b6c26339eb31448ba00c6fa201d6f785",
-          "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "title_zh": null,
+          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+          "title_zh": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成",
           "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
           "title_original": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
           "summary": null,
@@ -488,22 +419,36 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-11-07T18:02:17Z"
+        },
+        {
+          "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
+          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
+          "title_zh": "微软研究院人工智能前沿小组的终结",
+          "title_en": "The end of Microsoft Research's AI Frontiers group",
+          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50406563",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T18:02:17Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5634,
+      "importance": 0.5634,
+      "importance_score": 0.5634,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9895,
-        "story_heat": 0.25
+        "recency": 0.959,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
@@ -511,8 +456,8 @@
       "latest_at": "2026-11-07T18:02:17Z",
       "primary_item": {
         "id": "0eff591ddab3052fb4d9a7dfd7f217912a0850f0",
-        "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-        "title_zh": null,
+        "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+        "title_zh": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成",
         "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
         "title_original": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
         "summary": null,
@@ -525,117 +470,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
+        "scored_at": "2026-11-07T20:57:01.549590Z"
       }
     },
     {
-      "story_id": "story_c3479172e24f",
-      "title": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
-      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "primary_url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "source": "www.crusoe.ai",
+      "story_id": "story_e678eeaacb4b",
+      "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+      "primary_url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+      "source": "maxxbench.unlap.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "62ce3d0242adbc3d4aab1ec1f319b1e05f6b9c6a",
-          "title": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
-          "title_zh": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
+          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
           "title_en": null,
-          "title_original": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
+          "title_original": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-          "source": "www.crusoe.ai",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+          "source": "maxxbench.unlap.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-07T17:32:59.760000Z"
+          "published_at": "2026-11-07T20:43:55.325000Z"
         },
         {
-          "id": "13b70dc9a5417072307647323c6e6054ccae6087",
-          "title": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地 / Google has acquired Crusoe's data center site in southeast Wyoming",
-          "title_zh": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
-          "title_en": "Google has acquired Crusoe's data center site in southeast Wyoming",
-          "title_original": "Google has acquired Crusoe's data center site in southeast Wyoming",
+          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+          "title_en": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "title_original": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-06T20:09:14Z"
+          "published_at": "2026-11-07T17:19:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "www.crusoe.ai"
+        "maxxbench.unlap.ai"
       ],
       "items": [
         {
-          "id": "62ce3d0242adbc3d4aab1ec1f319b1e05f6b9c6a",
-          "title": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
-          "title_zh": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
+          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
           "title_en": null,
-          "title_original": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
+          "title_original": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-          "source": "www.crusoe.ai",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+          "source": "maxxbench.unlap.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-07T17:32:59.760000Z"
+          "published_at": "2026-11-07T20:43:55.325000Z"
         },
         {
-          "id": "13b70dc9a5417072307647323c6e6054ccae6087",
-          "title": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地 / Google has acquired Crusoe's data center site in southeast Wyoming",
-          "title_zh": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
-          "title_en": "Google has acquired Crusoe's data center site in southeast Wyoming",
-          "title_original": "Google has acquired Crusoe's data center site in southeast Wyoming",
+          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+          "title_en": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "title_original": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-06T20:09:14Z"
+          "published_at": "2026-11-07T17:19:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9825,
+        "recency": 0.9971,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-06T20:09:14Z",
-      "latest_at": "2026-11-07T17:32:59.760000Z",
+      "earliest_at": "2026-11-07T17:19:00Z",
+      "latest_at": "2026-11-07T20:43:55.325000Z",
       "primary_item": {
-        "id": "62ce3d0242adbc3d4aab1ec1f319b1e05f6b9c6a",
-        "title": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
-        "title_zh": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
+        "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
+        "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+        "title_zh": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
         "title_en": null,
-        "title_original": "谷歌收购了位于怀俄明州东南部的Crusoe数据中心场地",
+        "title_original": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-        "source": "www.crusoe.ai",
+        "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+        "source": "maxxbench.unlap.ai",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
+        "scored_at": "2026-11-07T20:57:01.549590Z"
+      }
+    },
+    {
+      "story_id": "story_cc07ee07893a",
+      "title": "微软研究院“AI Frontiers”团队的解散",
+      "url": "https://hunch.net/?p=13764006",
+      "primary_url": "https://hunch.net/?p=13764006",
+      "source": "hunch.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
+          "title": "微软研究院“AI Frontiers”团队的解散",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": null,
+          "title_original": "微软研究院“AI Frontiers”团队的解散",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "hunch.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T19:40:52.028000Z"
+        },
+        {
+          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
+          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": "The end of Microsoft Research's AI Frontiers group",
+          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T18:02:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hunch.net"
+      ],
+      "items": [
+        {
+          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
+          "title": "微软研究院“AI Frontiers”团队的解散",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": null,
+          "title_original": "微软研究院“AI Frontiers”团队的解散",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "hunch.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T19:40:52.028000Z"
+        },
+        {
+          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
+          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": "The end of Microsoft Research's AI Frontiers group",
+          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T18:02:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9821,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T18:02:17Z",
+      "latest_at": "2026-11-07T19:40:52.028000Z",
+      "primary_item": {
+        "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
+        "title": "微软研究院“AI Frontiers”团队的解散",
+        "title_zh": "微软研究院“AI Frontiers”团队的解散",
+        "title_en": null,
+        "title_original": "微软研究院“AI Frontiers”团队的解散",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hunch.net/?p=13764006",
+        "source": "hunch.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-07T20:57:01.549590Z"
       }
     },
     {
@@ -712,15 +767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9637,
+        "recency": 0.9341,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -745,7 +800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
+        "scored_at": "2026-11-07T20:57:01.549590Z"
       }
     },
     {
@@ -822,15 +877,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9064,
+        "recency": 0.8785,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -855,151 +910,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
-      }
-    },
-    {
-      "story_id": "story_69f30db5a74d",
-      "title": "人工智能正在极大地加速人工智能研究",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "primary_url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "source": "www.planned-obsolescence.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "53a5769058469f2c5f75021643659032056787d7",
-          "title": "人工智能正在极大地加速人工智能研究",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": null,
-          "title_original": "人工智能正在极大地加速人工智能研究",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-          "source": "www.planned-obsolescence.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:23.304000Z"
-        },
-        {
-          "id": "0ac70f26f68f853ed622c456a8c54eaeb37c43a2",
-          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": "AI is dramatically accelerating AI research",
-          "title_original": "AI is dramatically accelerating AI research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T20:27:23Z"
-        },
-        {
-          "id": "305a64ec674f8cf86aaf4b6a8f0e2a613db8fa8d",
-          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": "AI is dramatically accelerating AI research",
-          "title_original": "AI is dramatically accelerating AI research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50397994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T20:27:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.planned-obsolescence.org"
-      ],
-      "items": [
-        {
-          "id": "53a5769058469f2c5f75021643659032056787d7",
-          "title": "人工智能正在极大地加速人工智能研究",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": null,
-          "title_original": "人工智能正在极大地加速人工智能研究",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-          "source": "www.planned-obsolescence.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:23.304000Z"
-        },
-        {
-          "id": "0ac70f26f68f853ed622c456a8c54eaeb37c43a2",
-          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": "AI is dramatically accelerating AI research",
-          "title_original": "AI is dramatically accelerating AI research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T20:27:23Z"
-        },
-        {
-          "id": "305a64ec674f8cf86aaf4b6a8f0e2a613db8fa8d",
-          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
-          "title_zh": "人工智能正在极大地加速人工智能研究",
-          "title_en": "AI is dramatically accelerating AI research",
-          "title_original": "AI is dramatically accelerating AI research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50397994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T20:27:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.751,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T20:27:23Z",
-      "latest_at": "2026-11-06T22:56:23.304000Z",
-      "primary_item": {
-        "id": "53a5769058469f2c5f75021643659032056787d7",
-        "title": "人工智能正在极大地加速人工智能研究",
-        "title_zh": "人工智能正在极大地加速人工智能研究",
-        "title_en": null,
-        "title_original": "人工智能正在极大地加速人工智能研究",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-        "source": "www.planned-obsolescence.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
+        "scored_at": "2026-11-07T20:57:01.549590Z"
       }
     },
     {
       "story_id": "story_d600757765e9",
-      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
       "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
       "primary_url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
       "source": "Hacker News (黑客新闻)",
@@ -1007,8 +923,8 @@
       "sources": [
         {
           "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
-          "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "title_zh": null,
+          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
           "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "title_original": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "summary": null,
@@ -1021,8 +937,8 @@
         },
         {
           "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
-          "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "title_zh": null,
+          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
           "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "title_original": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "summary": null,
@@ -1042,8 +958,8 @@
       "items": [
         {
           "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
-          "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "title_zh": null,
+          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
           "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "title_original": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "summary": null,
@@ -1056,8 +972,8 @@
         },
         {
           "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
-          "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "title_zh": null,
+          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
           "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "title_original": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "summary": null,
@@ -1071,15 +987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9506,
+        "recency": 0.9214,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1090,8 +1006,8 @@
       "latest_at": "2026-11-07T15:16:01Z",
       "primary_item": {
         "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
-        "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-        "title_zh": null,
+        "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+        "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
         "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
         "title_original": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
         "summary": null,
@@ -1104,117 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
-      }
-    },
-    {
-      "story_id": "story_1b4ade85b2b5",
-      "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "primary_url": "https://pwn.ai/blog/firecracker-escape",
-      "source": "pwn.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_en": null,
-          "title_original": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:22.798000Z"
-        },
-        {
-          "id": "78a9d556ef891cc8b888a849f06377f1f33d827d",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
-          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_en": "Firecracker VM Escape: PwnEscape Part 2",
-          "title_original": "Firecracker VM Escape: PwnEscape Part 2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T19:33:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "pwn.ai"
-      ],
-      "items": [
-        {
-          "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_en": null,
-          "title_original": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:22.798000Z"
-        },
-        {
-          "id": "78a9d556ef891cc8b888a849f06377f1f33d827d",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
-          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_en": "Firecracker VM Escape: PwnEscape Part 2",
-          "title_original": "Firecracker VM Escape: PwnEscape Part 2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T19:33:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.751,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T19:33:38Z",
-      "latest_at": "2026-11-06T22:56:22.798000Z",
-      "primary_item": {
-        "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
-        "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
-        "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
-        "title_en": null,
-        "title_original": "Firecracker VM 逃脱：PwnEscape 第二部分",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://pwn.ai/blog/firecracker-escape",
-        "source": "pwn.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
+        "scored_at": "2026-11-07T20:57:01.549590Z"
       }
     },
     {
@@ -1291,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
+      "score": 0.4966,
+      "importance": 0.4966,
+      "importance_score": 0.4966,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7499,
+        "recency": 0.7269,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1321,230 +1127,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
-      }
-    },
-    {
-      "story_id": "story_e93b94ddd584",
-      "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-      "url": "https://sketchagent.dev",
-      "primary_url": "https://sketchagent.dev",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
-          "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_zh": "SketchAgentBench – 评估 3D 空间推理的LLM",
-          "title_en": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_original": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketchagent.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T20:28:24Z"
-        },
-        {
-          "id": "2c265a5856ac131a3f6501ba8a0ae4150c3fa052",
-          "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_zh": "SketchAgentBench – 评估 3D 空间推理的LLM",
-          "title_en": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_original": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50398010",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T20:28:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
-          "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_zh": "SketchAgentBench – 评估 3D 空间推理的LLM",
-          "title_en": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_original": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketchagent.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T20:28:24Z"
-        },
-        {
-          "id": "2c265a5856ac131a3f6501ba8a0ae4150c3fa052",
-          "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_zh": "SketchAgentBench – 评估 3D 空间推理的LLM",
-          "title_en": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "title_original": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50398010",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T20:28:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7247,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T20:28:24Z",
-      "latest_at": "2026-11-06T20:28:24Z",
-      "primary_item": {
-        "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
-        "title": "SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-        "title_zh": "SketchAgentBench – 评估 3D 空间推理的LLM",
-        "title_en": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-        "title_original": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://sketchagent.dev",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
-      }
-    },
-    {
-      "story_id": "story_54cb3e82e2a1",
-      "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI / Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "primary_url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "bfdd449e721860870ae75fc4a660e548af4d3290",
-          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI / Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI",
-          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T19:41:59Z"
-        },
-        {
-          "id": "d5e1ff36b4d6b99dae499ddde430ca7fd321d2c2",
-          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI / Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI",
-          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50397341",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T19:41:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bfdd449e721860870ae75fc4a660e548af4d3290",
-          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI / Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI",
-          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T19:41:59Z"
-        },
-        {
-          "id": "d5e1ff36b4d6b99dae499ddde430ca7fd321d2c2",
-          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI / Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI",
-          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50397341",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T19:41:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4948,
-      "importance": 0.4948,
-      "importance_score": 0.4948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7166,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T19:41:59Z",
-      "latest_at": "2026-11-06T19:41:59Z",
-      "primary_item": {
-        "id": "bfdd449e721860870ae75fc4a660e548af4d3290",
-        "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI / Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-        "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI",
-        "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-        "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/partnering-with-hacktron",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T18:58:22.516834Z"
+        "scored_at": "2026-11-07T20:57:01.549590Z"
       }
     }
   ]
